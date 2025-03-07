@@ -65,6 +65,29 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 
 
+/* Footer */
+
+.orangeLine {
+	height: 3px;
+	background-color: #fa4516;
+	width: 100%;
+	margin-bottom: 90px;
+}
+.instagramFooter {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.instagramIcon {
+	background-color: #fa4516;
+	width: 50px;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+}
+
 
 
 
