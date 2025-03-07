@@ -26,8 +26,6 @@ require "settings/init.php";
 
 
 
-
-
 <div class="container">
     <div class="row text-center justify-content-center align-items-center">
 
@@ -51,10 +49,6 @@ require "settings/init.php";
 
     </div>
 </div>
-
-
-
-
 
 
 
