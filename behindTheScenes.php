@@ -28,6 +28,51 @@ require "settings/init.php";
 
 
 
+<div class="container">
+    <div class="row text-center justify-content-center align-items-center">
+
+<div class="mb-3">
+    <p class="h1 text-primary">BEHIND <br> THE <br> SCENES</p>
+</div>
+
+
+        <div class="p-4 pb-5">
+            <p class="h5 text-white text-start ps-4">BTS DFC 2.0</p>
+            <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=tABE9XS9vuJLghLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+        <div class="p-4 pb-5">
+            <p class="h5 text-white text-start ps-4">BTS DFC 1.0</p>
+            <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TeE1IX3xrFd4qMJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+        <div class="p-4 pb-5">
+            <p class="h5 text-white text-start ps-4">BTS DFC 2.0</p>
+            <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=tABE9XS9vuJLghLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+        <div class="p-4 pb-5">
+            <p class="h5 text-white text-start ps-4">BTS DFC 1.0</p>
+            <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TeE1IX3xrFd4qMJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+        <div class="p-4 pb-5">
+            <p class="h5 text-white text-start ps-4">BTS DFC 2.0</p>
+            <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=tABE9XS9vuJLghLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+        <div class="p-4 pb-5">
+            <p class="h5 text-white text-start ps-4">BTS DFC 1.0</p>
+            <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TeE1IX3xrFd4qMJv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+
+<div class="mb-5">
+    <button class="btn btn-primary rounded-3 px-5 py-2 text-white">VIEW MORE</button>
+</div>
+
+    </div>
+</div>
 
 
 
