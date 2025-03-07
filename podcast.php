@@ -31,17 +31,17 @@ require "settings/init.php";
 <div class="container">
     <div class="row text-center justify-content-center align-items-center">
 
-        <div class="mb-3">
+        <div class="mb-5">
             <p class="h1 text-primary">PODCAST</p>
         </div>
 
 
-        <div class="p-4 pb-5">
+        <div class="col-12 col-md-6 p-4 pb-5">
             <p class="h5 text-white text-start ps-4">DFC PODCAST EP. 2</p>
             <iframe src="https://www.youtube.com/embed/ikyIMVTR-eA?si=RvKKVmGCMG921KoP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
-        <div class="p-4 pb-5">
+        <div class="col-12 col-md-6 p-4 pb-5">
             <p class="h5 text-white text-start ps-4">DFC PODCAST EP. 1</p>
             <iframe src="https://www.youtube.com/embed/wBDbDAHl9io?si=Qom3FApCE5YfRFOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
