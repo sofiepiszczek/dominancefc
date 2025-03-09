@@ -16,7 +16,7 @@ require "settings/init.php";
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-    <link href="../css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/30d6e0b537.js" crossorigin="anonymous"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,13 +31,13 @@ require "settings/init.php";
 
         <div class="row flex-wrap gap-2">
             <a class="h3">EXPERIENCE</a>
-            <a href="../index.php" class="h5">TICKETS<br>EVENTS<br>PAYPERVIEW</a>
+            <a href="index.php" class="h5">TICKETS<br>EVENTS<br>PAYPERVIEW</a>
             <br>
             <a class="h3">DISCOVER</a>
-            <a href="../index.php" class="h5">BEHIND THE SCENES <br> PREVIOUS FIGHTS <br> SHOP <br> PODCAST <br> ABOUT <br> COOKIE POLICY (EU) <br> PRIVACY STATEMENT (EU)</a>
+            <a href="index.php" class="h5">BEHIND THE SCENES <br> PREVIOUS FIGHTS <br> SHOP <br> PODCAST <br> ABOUT <br> COOKIE POLICY (EU) <br> PRIVACY STATEMENT (EU)</a>
             <br>
             <a class="h3">BE FAMILY</a>
-            <a href="../index.php" class="h5">CONTACT <br> FIGHTER SIGNUP <br> SPONSOR INFO</a>
+            <a href="index.php" class="h5">CONTACT <br> FIGHTER SIGNUP <br> SPONSOR INFO</a>
             <br>
         </div>
 
