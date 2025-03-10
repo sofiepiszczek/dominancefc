@@ -36,7 +36,7 @@ require "settings/init.php";
                     <h2 class="accordion-header custom-text" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                           EXPERIENCE
+                            EXPERIENCE
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
