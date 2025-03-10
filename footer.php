@@ -30,13 +30,13 @@ require "settings/init.php";
         <div class="orangeLine"></div>
 
         <div class="row flex-wrap gap-2">
-            <a class="h4">EXPERIENCE</a>
+            <a class="h5 custom-text">EXPERIENCE</a>
             <a href="index.php" class="h6">TICKETS<br>EVENTS<br>PAYPERVIEW</a>
             <br>
-            <a class="h4">DISCOVER</a>
+            <a class="h5 custom-text">DISCOVER</a>
             <a href="index.php" class="h6">BEHIND THE SCENES <br> PREVIOUS FIGHTS <br> SHOP <br> PODCAST <br> ABOUT <br> COOKIE POLICY (EU) <br> PRIVACY STATEMENT (EU)</a>
             <br>
-            <a class="h4">BE FAMILY</a>
+            <a class="h5 custom-text">BE FAMILY</a>
             <a href="index.php" class="h6">CONTACT <br> FIGHTER SIGNUP <br> SPONSOR INFO</a>
             <br>
         </div>
@@ -45,7 +45,7 @@ require "settings/init.php";
             <div class="instagramIcon">
                 <i class="fa-brands fa-instagram text-white display-3"></i>
             </div>
-            <a target="_blank" href="https://www.instagram.com/airtoxdominancefc/" class="h4 mb-0">INSTAGRAM</a>
+            <a target="_blank" href="https://www.instagram.com/airtoxdominancefc/" class="h6 mb-0">INSTAGRAM</a>
         </div>
     </div>
 </div>
