@@ -10,7 +10,7 @@
             <div class="accordion border-0 mt-2 text-primary" id="accordionExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header custom-text" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                             EXPERIENCE
                         </button>
