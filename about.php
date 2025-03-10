@@ -30,8 +30,8 @@ require "settings/init.php";
             <h1 class="text-primary">ABOUT</h1>
         </div>
 
-        <div>
-            <img src="" alt="Portræt af Mark O. Madsen">
+        <div class="">
+            <img src="images/about1.jpg" class="w-100 m-0" alt="Portræt af Mark O. Madsen">
         </div>
 
         <div class="text-start p-5">
@@ -39,8 +39,8 @@ require "settings/init.php";
             <h5>Dominance FC, short for Dominance Fighting Championship, was established by three-time Olympian and UFC veteran Mark O. Madsen. Dominance FC’s vision is to establish Europe’s premier fight promotion, hosting multiple DFC events annually. Dominance FC is dedicated to advancing the sport of MMA in Europe, creating exceptional experiences for fighters and fans alike.</h5>
         </div>
 
-        <div>
-            <img src="" alt="Billede af ringen">
+        <div class="">
+            <img src="images/about2.jpg" class="w-100 m-0" alt="Billede af ringen">
         </div>
 
         <div class="text-start p-5">
@@ -48,8 +48,8 @@ require "settings/init.php";
             <h5>MMA, or Mixed Martial Arts, is the world’s fastest-growing sport, and we see enormous potential in the European MMA scene. Dominance FC aims to create a platform that matches this growth, promotes the sport in Europe, and provides European talents with an international stage to develop their potential and build their brand.</h5>
         </div>
 
-        <div>
-            <img src="" alt="Billede af Mark O. Madsen">
+        <div class="">
+            <img src="images/about3.jpg" class="w-100 m-0" alt="Billede af Mark O. Madsen">
         </div>
     </div>
 </div>
