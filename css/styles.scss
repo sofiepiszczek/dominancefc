@@ -81,6 +81,10 @@ p,h1,h2{
 .accordion-button {
 	border: none !important;
 	box-shadow: none !important;
+
+}
+.accordion-button ::after{
+	color: #fa4516;
 }
 
 /* Remove borders from accordion body */
@@ -89,6 +93,7 @@ p,h1,h2{
 }
 .accordion-button:not(.collapsed) {
 	background-color: #1c1c1c !important;
+	--bs-accordion-active-color: #fa4516;
 }
 
 
@@ -120,6 +125,13 @@ p,h1,h2{
 	background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
 	background-position: center; /* Centrerer billedet */
 	height: 500px; /* Justér efter behov */
+}
+
+.eventbaggrund{
+	background-image: url('../images/eventBG.png'); /* Sti til dit billede */
+	background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
+	background-position: center; /* Centrerer billedet */
+	height: 2000px; /* Justér efter behov */
 }
 
 
