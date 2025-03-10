@@ -42,12 +42,15 @@ p,h1,h2{
 	font-family: 'DFCfont', sans-serif; /* Brug fonten */
 }
 .bannertext{
-	font-size: 4rem;
+	font-size: 2.5rem;
+}
+.subscribeText{
+	font-size: 0.5rem;
 }
 
 .videobg{
 	width: 100%;
-	height: 900px;
+	height: 1000px;
 	object-fit: cover;
 	position: absolute;
 	top: 0;
