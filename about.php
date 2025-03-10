@@ -31,25 +31,25 @@ require "settings/init.php";
         </div>
 
         <div class="">
-            <img src="images/about1.jpg" class="w-100 m-0" alt="Portræt af Mark O. Madsen">
+            <img src="images/about1.jpg" class="w-75 p-3 mt-3" alt="Portræt af Mark O. Madsen">
         </div>
 
         <div class="text-start p-5">
-            <h4 class="text-primary">WHAT IS DOMINANCE FC?</h4>
-            <h5>Dominance FC, short for Dominance Fighting Championship, was established by three-time Olympian and UFC veteran Mark O. Madsen. Dominance FC’s vision is to establish Europe’s premier fight promotion, hosting multiple DFC events annually. Dominance FC is dedicated to advancing the sport of MMA in Europe, creating exceptional experiences for fighters and fans alike.</h5>
+            <p class="h4 text-primary">WHAT IS DOMINANCE FC?</p>
+            <p class="h6 text-uppercase lh-lg">Dominance FC, short for <span class="text-primary">Dominance Fighting Championship</span>, was established by three-time Olympian and UFC veteran <span class="text-primary">Mark O. Madsen</span>. Dominance FC’s vision is to establish Europe’s <span class="text-primary">premier fight promotion</span>, hosting multiple DFC events annually. Dominance FC is dedicated to advancing the sport of MMA in Europe, <span class="text-primary">creating exceptional experiences</span> for fighters and fans alike.</>
         </div>
 
         <div class="">
-            <img src="images/about2.jpg" class="w-100 m-0" alt="Billede af ringen">
+            <img src="images/about2.jpg" class="w-100 p-0" alt="Billede af ringen">
         </div>
 
         <div class="text-start p-5">
-            <h4 class="text-primary">WHY DOMINANCE FC?</h4>
-            <h5>MMA, or Mixed Martial Arts, is the world’s fastest-growing sport, and we see enormous potential in the European MMA scene. Dominance FC aims to create a platform that matches this growth, promotes the sport in Europe, and provides European talents with an international stage to develop their potential and build their brand.</h5>
+            <p class="h4 text-primary">WHY DOMINANCE FC?</p>
+            <p class="h6 text-uppercase lh-lg">MMA, or Mixed Martial Arts, is the <span class="text-primary">world’s fastest-growing sport</span>, and we see <span class="text-primary">enormous potential</span> in the European MMA scene. Dominance FC aims to create a platform that matches this growth, promotes the sport in Europe, and provides <span class="text-primary">European talents</span> with an international stage to develop their potential and build their brand.</p>
         </div>
 
         <div class="">
-            <img src="images/about3.jpg" class="w-100 m-0" alt="Billede af Mark O. Madsen">
+            <img src="images/about3.jpg" class="w-100 p-0" alt="Billede af Mark O. Madsen">
         </div>
     </div>
 </div>
