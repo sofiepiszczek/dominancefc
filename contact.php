@@ -38,21 +38,21 @@ require "settings/init.php";
 
 
         <div class="mb-3 px-4">
-            <label class="form-label text-white custom-text fs-4 text-start">NAME:</label>
+            <label class="form-label text-white custom-text fs-6 text-start">NAME:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT NAME HERE">
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">SURNAME:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">SURNAME:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT SURNAME HERE">
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">COMPANY:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">COMPANY:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT COMPANY HERE">
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">E-MAIL:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">E-MAIL:</label>
             <input type="email" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT E-MAIL HERE">
         </div>
 
         <div class="mb-3 px-4 pb-4">
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">MESSAGE:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">MESSAGE:</label>
             <textarea class="form-control bg-white custom-text text-secondary placeholder-gray" rows="5" placeholder="INSERT MESSAGE HERE"></textarea>
         </div>
 
