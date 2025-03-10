@@ -68,9 +68,39 @@ require "settings/init.php";
 
             <label class="form-label text-white custom-text mt-3 fs-6 text-start">AFFILIATED GYM AND COACH:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT HERE">
-
         </div>
 
+        <div class="pb-4 text-center">
+            <p class="px-4">Do you allow us to save your info for future events and agree to our privacy policy, marketing, and tracking? You can withdraw consent anytime</p>
+        </div>
+
+
+
+
+        <div class="text-white text-center">
+            <div class="d-flex align-items-center my-3">
+                <input type="radio" id="yes" name="permission" class="form-check-input ms-5 p-3">
+                <label for="yes" class="fs-6 custom-text">YES, YOU HAVE MY PERMISSION.</label>
+            </div>
+
+            <div class="d-flex align-items-center my-3">
+                <input type="radio" id="no" name="permission" class="form-check-input ms-5 p-3">
+                <label for="no" class="fs-6 ms-5 custom-text">NO.</label>
+            </div>
+        </div>
+
+
+        <div class="w-75">
+            <input type="text" class="form-control custom-text border-0 border-bottom bg-transparent text-white placeholder-gray text-center my-5 box-shadow" placeholder="FACEBOOK LINK">
+
+            <input type="text" class="form-control custom-text border-0 border-bottom bg-transparent text-white placeholder-gray text-center my-5 box-shadow" placeholder="INSTAGRAM LINK">
+
+            <input type="text" class="form-control custom-text border-0 border-bottom bg-transparent text-white placeholder-gray text-center my-5 box-shadow" placeholder="TWITTER LINK">
+
+            <input type="text" class="form-control custom-text border-0 border-bottom bg-transparent text-white placeholder-gray text-center my-5 box-shadow" placeholder="LINKEDIN LINK">
+
+            <input type="text" class="form-control custom-text border-0 border-bottom bg-transparent text-white placeholder-gray text-center my-5 box-shadow" placeholder="YOUTUBE LINK">
+        </div>
 
 
 
