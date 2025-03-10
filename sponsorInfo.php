@@ -35,7 +35,7 @@ require "settings/init.php";
 
 
         <div class="col-12 p-4 pb-5">
-            <iframe src="https://www.youtube.com/embed/ikyIMVTR-eA?si=RvKKVmGCMG921KoP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="300" height="168" src="https://www.youtube.com/embed/ikyIMVTR-eA?si=RvKKVmGCMG921KoP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div class="mb-5">
