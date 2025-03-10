@@ -14,7 +14,7 @@ $custom-colors: (
 				"primary":    #fa4516,
 				"secondary":  #1c1c1c,
 				"DFCblack":   #000,
-				"DFCgrey":    #999EA6,
+				"DFCgray":    #999EA6,
 				"DFCwhite":   #ffffff,
 );
 
@@ -93,6 +93,11 @@ p,h1,h2{
 }
 
 
+/* Placeholder-farve til formular - contact & fighter signup */
+
+.placeholder-gray::placeholder {
+	color: #999EA6;
+}
 
 
 
