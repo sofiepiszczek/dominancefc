@@ -23,6 +23,10 @@ require "settings/init.php";
 
 <body>
 
+<?php
+include ("includes/navbar.php");
+?>
+
 <div class="container d-flex justify-content-center align-items-center banner">
             <video autoplay="autoplay" muted="muted" loop="loop" class="videobg">
                 <source src="video/forsidevideo.mp4" type="video/mp4">
