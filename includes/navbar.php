@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
 <nav class="navbar navbar-expand-sm z-3 bg-secondary">
     <div class="container-fluid">
         <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 30px;"></a>

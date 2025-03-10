@@ -95,6 +95,9 @@ p,h1,h2{
 	background-color: #1c1c1c !important;
 	--bs-accordion-active-color: #fa4516;
 }
+.accordion-button::after {
+	filter: invert(34%) sepia(97%) saturate(1810%) hue-rotate(349deg) brightness(99%) contrast(102%);
+}
 
 
 /* Footer */
