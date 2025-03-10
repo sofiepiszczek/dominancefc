@@ -39,16 +39,16 @@ include ("includes/navbar.php");
 
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center bg-primary bg-opacity-75 text-center custom-text py-5">
-            <div class="col-8 card shadow-lg rounded-5 bg-secondary my-4">
+        <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center bg-primary bg-opacity-25 text-center custom-text py-5">
+            <div class="col-10 card shadow-lg rounded-0 bg-secondary my-4">
                 <h2 class="pt-5 fs-1">NEXT EVENT</h2>
-                <p class="py-3 fs-3 text-primary">26/04/2025</p>
-                <img src="images/nextevent2.png" class="img-fluid m-4 rounded-3" alt="event billede">
+                <p class="pb-1 fs-4 text-primary">26/04/2025</p>
+                <img src="images/nextevent2.png" class="img-fluid m-3" alt="event billede">
             </div>
-            <div class="col-8 card shadow-lg rounded-5 bg-secondary my-4">
+            <div class="col-10 card shadow-lg rounded-0 bg-secondary my-4">
                 <h2 class="pt-5 fs-1">NEXT ACADEMY</h2>
-                <p class="py-3 fs-3 text-primary">09/08/2025</p>
-                <img src="images/nextacademy2.png" class="img-fluid m-4 rounded-3" alt="academy billede">
+                <p class="pb-1 fs-4 text-primary">09/08/2025</p>
+                <img src="images/nextacademy2.png" class="img-fluid m-4" alt="academy billede">
             </div>
         </div>
         <div class="container banner position-relative gx-0">
@@ -64,30 +64,30 @@ include ("includes/navbar.php");
             <p class="custom-text text-white text-center fs-1">DISCOVER MORE</p>
             </div>
 
-            <div class="col-12 text-center">
-                <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw" title="YouTube video player"
+            <div class="col-12 text-center pb-3">
+                <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw" width="75%" height="100%" title="YouTube video player"
                         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
             <div class="col-12 text-center py-4">
-                <a href="" class="btn bg-primary custom-text text-white p-2">WATCH</a>
+                <a href="" class="btn bg-primary custom-text text-white p-2">WATCH MORE</a>
             </div>
             </div>
 
-            <div class="col-12 text-white text-center custom-text">
-                <h3 class="py-5">BE FAMILY!</h3>
+            <div class="col-12 text-white text-center custom-text pt-5">
+                <h3 class="py-3">BE FAMILY!</h3>
 
                 <form class="d-inline-flex justify-content-center flex-wrap">
                     <div class="col-12 mb-3 d-flex justify-content-center">
                         <div class="col-8">
-                        <input type="email" class="form-control text-white custom-text" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
+                        <input type="email" class="form-control text-white custom-text placeholder-gray" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
                         </div>
                     </div>
                     <div class="col-12 py-3 px-4">
                     <button type="submit" class="btn btn-primary text-white">SUBSCRIBE</button>
                     </div>
-                    <div class="col-12 text-start text-uppercase">
+                    <div class="col-12 text-start text-uppercase subscribeText">
                         <p>By signing up for our newsletter, you accept our privacy policy and
                             consent to receiving marketing and website tracking.
                             You can withdraw your consent anytime.</p>
