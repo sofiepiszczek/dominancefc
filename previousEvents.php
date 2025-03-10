@@ -22,8 +22,10 @@ require "settings/init.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="bg-secondary">
-
+<body>
+<?php
+include ("includes/navbar.php");
+?>
 
 
 
@@ -31,29 +33,29 @@ require "settings/init.php";
 <div class="container">
     <div class="row text-center justify-content-center align-items-center">
 
-        <div class="mb-5">
-            <p class="h1 text-primary">PREVIOUS <br> EVENTS</p>
+        <div class="">
+            <p class="h1 text-primary py-5 custom-text">PREVIOUS <br> EVENTS</p>
         </div>
 
 
-        <div class="col-12 col-md-6 p-4 pb-5">
-            <p class="h5 text-white text-start ps-4">FIGHTS FROM DFC 2.O</p>
+        <div class="col-12 col-md-6 px-4 pb-5">
+            <p class="h6 text-white text-start ps-4 custom-text">FIGHTS FROM DFC 2.O</p>
             <iframe width="300" height="168" src="https://www.youtube.com/embed/E2Kc_AKUBk0?si=LZsiCSIhCpzc9XIR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <iframe width="300" height="168" src="https://www.youtube.com/embed/7792kUMUu7Y?si=xWpejm-oZhd7Jd-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div class="mb-5">
-            <button class="btn btn-primary rounded-3 px-5 py-2 text-white">VIEW MORE</button>
+            <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</button>
         </div>
 
         <div class="col-12 col-md-6 p-4 pb-5">
-            <p class="h5 text-white text-start ps-4">FIGHTS FROM DFC 1.0</p>
+            <p class="h6 text-white text-start ps-4 custom-text">FIGHTS FROM DFC 1.0</p>
             <iframe width="300" height="168" src="https://www.youtube.com/embed/An1EnXFgeBQ?si=a-QXeDQb5mhSF4Yu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <iframe width="300" height="168" src="https://www.youtube.com/embed/An1EnXFgeBQ?si=a-QXeDQb5mhSF4Yu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div class="mb-5">
-            <button class="btn btn-primary rounded-3 px-5 py-2 text-white">VIEW MORE</button>
+            <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</button>
         </div>
 
 

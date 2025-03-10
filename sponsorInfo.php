@@ -22,29 +22,31 @@ require "settings/init.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="bg-secondary">
-
+<body>
+<?php
+include ("includes/navbar.php");
+?>
 
 
 <div class="container">
     <div class="row text-center justify-content-center align-items-center">
 
-        <div class="mb-5">
-            <p class="h1 text-primary">SPONSOR INFO</p>
+        <div class="">
+            <p class="h1 text-primary py-5 custom-text">SPONSOR <br> INFO</p>
         </div>
 
 
-        <div class="col-12 p-4 pb-5">
+        <div class="col-12 px-4 pb-5">
             <iframe width="300" height="168" src="https://www.youtube.com/embed/ikyIMVTR-eA?si=RvKKVmGCMG921KoP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div class="mb-5">
-            <p class="h1 text-white">BE OUR <br> CORNERMAN</p>
+            <p class="h1 text-white custom-text">BE OUR <br> CORNERMAN</p>
         </div>
 
 
         <div class="mb-5">
-            <button class="btn btn-primary rounded-3 px-5 py-2 text-white">CONTACT</button>
+            <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">CONTACT</button>
         </div>
 
     </div>
