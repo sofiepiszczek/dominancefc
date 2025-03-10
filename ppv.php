@@ -14,6 +14,9 @@
 </head>
 
 <body>
+<?php
+include ("includes/navbar.php");
+?>
 
 <h1 class="custom-text text-primary text-center py-5">PAYPERVIEW</h1>
 
