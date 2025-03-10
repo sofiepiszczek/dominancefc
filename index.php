@@ -34,24 +34,39 @@ require "settings/init.php";
 </div>
 
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-12 bg-orange">
-            <div class="col-8 card bg-grey">
-                <h2>NEXT EVENT</h2>
-                <P>26/04/2025</P>
-                <img src="images/" alt="">
+    <div class="row ">
+        <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center bg-primary bg-opacity-75 text-center custom-text py-5">
+            <div class="col-8 card shadow-lg rounded-5 bg-secondary my-4">
+                <h2 class="pt-5 fs-1">NEXT EVENT</h2>
+                <p class="py-3 fs-3 text-primary">26/04/2025</p>
+                <img src="images/nextevent2.png" class="img-fluid m-4 rounded-3" alt="event billede">
             </div>
-            <div class="col-8">
-                <h2>NEXT ACADEMY</h2>
-                <P>09/08/2025</P>
-                <img src="images/" alt="">
+            <div class="col-8 card shadow-lg rounded-5 bg-secondary my-4">
+                <h2 class="pt-5 fs-1">NEXT ACADEMY</h2>
+                <p class="py-3 fs-3 text-primary">09/08/2025</p>
+                <img src="images/nextacademy2.png" class="img-fluid m-4 rounded-3" alt="academy billede">
             </div>
-
         </div>
+        <div class="container banner position-relative gx-0">
+            <img src="images/banner-pluto.png" class="img-fluid position-absolute object-fit-cover h-100 w-100" alt="mma fighter">
+
+                <div class="position-absolute top-50 start-50 translate-middle">
+                    <p class="bannertext custom-text text-white text-center">WATCH LIVE</p>
+                </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+            <div class="col-10 py-5">
+            <p class="custom-text text-white text-center fs-1">DISCOVER MORE</p>
+            </div>
+            </div>
+        </div>
+
 
     </div>
 </div>
 
+<br><br><br><br><br><br>
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
