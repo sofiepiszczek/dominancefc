@@ -60,8 +60,8 @@ require "settings/init.php";
             <p class="custom-text text-white text-center fs-1">DISCOVER MORE</p>
             </div>
 
-            <div class="col-9 text-center">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw" title="YouTube video player"
+            <div class="col-12 text-center">
+                <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw" title="YouTube video player"
                         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
@@ -72,7 +72,7 @@ require "settings/init.php";
             </div>
 
             <div class="col-12 text-white text-center custom-text">
-                <h3>BE FAMILY!</h3>
+                <h3 class="py-5">BE FAMILY!</h3>
 
                 <form class="d-inline-flex justify-content-center flex-wrap">
                     <div class="col-12 mb-3 d-flex justify-content-center">
@@ -80,8 +80,13 @@ require "settings/init.php";
                         <input type="email" class="form-control text-white custom-text" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
                         </div>
                     </div>
-                    <div class="col-12">
-                    <button type="submit" class="btn btn-primary text-white">SUBMIT</button>
+                    <div class="col-12 py-3 px-4">
+                    <button type="submit" class="btn btn-primary text-white">SUBSCRIBE</button>
+                    </div>
+                    <div class="col-12 text-start text-uppercase">
+                        <p>By signing up for our newsletter, you accept our privacy policy and
+                            consent to receiving marketing and website tracking.
+                            You can withdraw your consent anytime.</p>
                     </div>
                 </form>
             </div>
