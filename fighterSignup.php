@@ -22,7 +22,7 @@ require "settings/init.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="bg-secondary">
+<body>
 
 
 
@@ -38,23 +38,40 @@ require "settings/init.php";
 
 
         <div class="mb-3 px-4">
-            <label class="form-label text-white custom-text fs-4 text-start">FULL NAME:</label>
+            <label class="form-label text-white custom-text fs-6 text-start">FULL NAME:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT FULL NAME HERE">
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">SURNAME:</label>
-            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT SURNAME HERE">
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">EXPERIENCE:</label>
+            <select class="form-select bg-white custom-text text-secondary placeholder-gray py-3" aria-label="Default select example ">
+                <option selected>SELECT YOUR EXPERIENCE</option>
+                <option value="1">PROFESSIONAL</option>
+                <option value="2">AMATEUR</option>
+            </select>
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">COMPANY:</label>
-            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT COMPANY HERE">
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">DATE OF BIRTH:</label>
+            <input type="date" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT DATE OF BIRTH HERE">
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">E-MAIL:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">E-MAIL:</label>
             <input type="email" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT E-MAIL HERE">
+
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">PHONE NUMBER:</label>
+            <input type="number" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT NUMBER HERE">
+
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">NATIONALITY:</label>
+            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT NATIONALITY HERE">
+
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">WEIGHT CLASS:</label>
+            <input type="number" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT WEIGHT CLASS HERE">
+
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">FIGHT RECORD:</label>
+            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT FIGHT RECORD HERE">
+
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">AFFILIATED GYM AND COACH:</label>
+            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT HERE">
+
         </div>
 
-        <div class="mb-3 px-4 pb-4">
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">MESSAGE:</label>
-            <textarea class="form-control bg-white custom-text text-secondary placeholder-gray" rows="5" placeholder="INSERT MESSAGE HERE"></textarea>
-        </div>
+
 
 
 
