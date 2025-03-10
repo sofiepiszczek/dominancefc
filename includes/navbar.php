@@ -1,5 +1,5 @@
 <script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
-<nav class="navbar navbar-expand-sm z-3 bg-secondary">
+<nav class="navbar navbar-expand-sm z-3 bg-secondary pt-4 pb-4">
     <div class="container-fluid">
         <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -7,7 +7,7 @@
         </button>
 
         <div class="collapse navbar-collapse collapse" id="collapsibleNavbar">
-            <div class="accordion border-0 mt-2 text-primary" id="accordionExample">
+            <div class="accordion border-0 mt-2 text-primary pt-4 pb-4" id="accordionExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header custom-text" id="headingOne">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
@@ -64,6 +64,5 @@
             </div>
         </div>
     </div>
-    <div class="orange-line bg-primary w-100 position-absolute h-2 bottom-0"></div>
-
+    <div class="orange-line bg-primary w-75 bottom-0 mx-auto mt-3"></div>
 </nav>
