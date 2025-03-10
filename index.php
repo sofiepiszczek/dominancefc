@@ -27,7 +27,7 @@ require "settings/init.php";
 include ("includes/navbar.php");
 ?>
 
-<div class="container d-flex justify-content-center align-items-center banner">
+<div class="container-fluid d-flex justify-content-center align-items-center banner m-0 p-0">
             <video autoplay="autoplay" muted="muted" loop="loop" class="videobg">
                 <source src="video/forsidevideo.mp4" type="video/mp4">
             </video>
@@ -38,7 +38,7 @@ include ("includes/navbar.php");
 </div>
 
 <div class="container-fluid">
-    <div class="row ">
+    <div class="row">
         <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center bg-primary bg-opacity-75 text-center custom-text py-5">
             <div class="col-8 card shadow-lg rounded-5 bg-secondary my-4">
                 <h2 class="pt-5 fs-1">NEXT EVENT</h2>
