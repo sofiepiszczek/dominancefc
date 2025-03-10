@@ -22,7 +22,7 @@ require "settings/init.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="bg-secondary">
+<body>
 
 <div class="container">
     <div class="row text-white p-5">

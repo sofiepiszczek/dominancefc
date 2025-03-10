@@ -50,27 +50,15 @@ include ("includes/navbar.php");
             <p class="h6 text-uppercase lh-lg">MMA, or Mixed Martial Arts, is the <span class="text-primary">world’s fastest-growing sport</span>, and we see <span class="text-primary">enormous potential</span> in the European MMA scene. Dominance FC aims to create a platform that matches this growth, promotes the sport in Europe, and provides <span class="text-primary">European talents</span> with an international stage to develop their potential and build their brand.</p>
         </div>
 
-        <div class="px-0">
+        <div class="px-0 mb-5">
             <img src="images/about3.jpg" class="w-100 img-fluid" alt="Billede af Mark O. Madsen">
         </div>
     </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<?php
+include ("includes/footies.php");
+?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

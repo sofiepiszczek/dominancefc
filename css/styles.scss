@@ -72,7 +72,7 @@ p,h1,h2{
 }
 
 .orange-line {
-	height: 4px;
+	height: 2px;
 }
 
 /* Remove borders from accordion items */
@@ -98,16 +98,13 @@ p,h1,h2{
 	background-color: #1c1c1c !important;
 	--bs-accordion-active-color: #fa4516;
 }
+.accordion-button::after {
+	filter: invert(34%) sepia(97%) saturate(1810%) hue-rotate(349deg) brightness(99%) contrast(102%);
+}
 
 
 /* Footer */
 
-.orangeLine {
-	height: 3px;
-	background-color: #fa4516;
-	width: 100%;
-	margin-bottom: 90px;
-}
 .instagramFooter {
 	display: flex;
 	align-items: center;
@@ -145,12 +142,20 @@ p,h1,h2{
 }
 
 
+/* Skyggefarve til check-knap og ingen box-shadow i Fighter Signup */
 
+.form-check-input:checked {
+	background-color: #fa4516;
+	border-color: #fa4516;
+	box-shadow: none;
+}
 
+/* Ingen box-shadow til SoMe links i "Fighter Signup */
 
-
-
-
-
+.underline{
+	outline: none;
+	border-bottom: 1px solid white;
+	border-radius: 0;
+}
 
 
