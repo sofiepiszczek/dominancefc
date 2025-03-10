@@ -3,7 +3,10 @@
 
 // 2. Include any default variable overrides here
 $link-decoration: none;
+$link-color: #ffff;
 $body-bg: #1c1c1c;
+$accordion-color: #fa4516;
+$accordion-button-color: #ffff;
 
 // 3. Include remainder of required Bootstrap stylesheets
 @import "../node_modules/bootstrap/scss/variables";
@@ -64,6 +67,32 @@ p,h1,h2{
 .banner{
 	height: 900px;
 }
+
+.orange-line {
+	height: 4px;
+}
+
+/* Remove borders from accordion items */
+.accordion-item {
+	border: none !important;
+}
+
+/* Remove borders and box-shadow from accordion buttons */
+.accordion-button {
+	border: none !important;
+	box-shadow: none !important;
+}
+
+/* Remove borders from accordion body */
+.accordion-body {
+	border: none !important;
+}
+.accordion-button:not(.collapsed) {
+	background-color: transparent !important;
+}
+
+
+
 
 
 
