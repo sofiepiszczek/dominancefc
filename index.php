@@ -59,6 +59,31 @@ require "settings/init.php";
             <div class="col-10 py-5">
             <p class="custom-text text-white text-center fs-1">DISCOVER MORE</p>
             </div>
+
+            <div class="col-9 text-center">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw" title="YouTube video player"
+                        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+
+            <div class="col-12 text-center py-4">
+                <a href="" class="btn bg-primary custom-text text-white p-2">WATCH</a>
+            </div>
+            </div>
+
+            <div class="col-12 text-white text-center custom-text">
+                <h3>BE FAMILY!</h3>
+
+                <form class="d-inline-flex justify-content-center flex-wrap">
+                    <div class="col-12 mb-3 d-flex justify-content-center">
+                        <div class="col-8">
+                        <input type="email" class="form-control text-white custom-text" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
+                        </div>
+                    </div>
+                    <div class="col-12">
+                    <button type="submit" class="btn btn-primary text-white">SUBMIT</button>
+                    </div>
+                </form>
             </div>
         </div>
 
