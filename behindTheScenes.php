@@ -22,8 +22,10 @@ require "settings/init.php";
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="bg-secondary">
-
+<body>
+<?php
+include ("includes/navbar.php");
+?>
 
 
 
