@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-dark z-3 bg-secondary">
+<nav class="navbar navbar-expand-sm navbar-expand-md navbar-dark z-3 bg-secondary">
     <div class="container-fluid">
         <img src="images/ADlogo.png" alt="Logo" style="height: 30px;">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -6,7 +6,7 @@
         </button>
 
         <div class="collapse navbar-collapse collapse" id="collapsibleNavbar">
-            <div class="accordion border-0 mt-2" id="accordionExample">
+            <div class="accordion border-0 mt-2 text-primary" id="accordionExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header custom-text" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
