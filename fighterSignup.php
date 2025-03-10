@@ -32,14 +32,14 @@ require "settings/init.php";
     <div class="row justify-content-center align-items-center">
 
         <div class="text-center pb-4">
-            <p class="h1 text-primary custom-text py-5">CONTACT</p>
-            <p class="px-4"><strong>For all media and press-related inquiries, please contact our PR team. We look forward to assisting you with your questions, interview requests, and any other press-related matters.</strong></p>
+            <p class="h1 text-primary custom-text py-5">FIGHTER <br> SIGNUP</p>
+            <p class="px-4">Apply for our fighter roster. <br> Do you have what it takes to perform at the top level, and compete with some of the best and most prominent fighters in the world?</p>
         </div>
 
 
         <div class="mb-3 px-4">
-            <label class="form-label text-white custom-text fs-4 text-start">NAME:</label>
-            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT NAME HERE">
+            <label class="form-label text-white custom-text fs-4 text-start">FULL NAME:</label>
+            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT FULL NAME HERE">
 
             <label class="form-label text-white custom-text mt-3 fs-4 text-start">SURNAME:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT SURNAME HERE">
