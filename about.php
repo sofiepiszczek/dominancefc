@@ -24,32 +24,32 @@ require "settings/init.php";
 <body class="bg-secondary">
 
 
-<div class="container">
+<div class="container-fluid">
     <div class="row justify-content-center align-items-center text-white text-center">
         <div>
-            <h1 class="text-primary">ABOUT</h1>
+            <p class="h1 text-primary py-5 custom-text">ABOUT</p>
         </div>
 
         <div class="">
-            <img src="images/about1.jpg" class="w-75 p-3 mt-3" alt="Portræt af Mark O. Madsen">
+            <img src="images/about1.jpg" class="w-75 px-3" alt="Portræt af Mark O. Madsen">
         </div>
 
         <div class="text-start p-5">
-            <p class="h4 text-primary">WHAT IS DOMINANCE FC?</p>
+            <p class="h5 text-primary custom-text mb-3">WHAT IS DOMINANCE FC?</p>
             <p class="h6 text-uppercase lh-lg">Dominance FC, short for <span class="text-primary">Dominance Fighting Championship</span>, was established by three-time Olympian and UFC veteran <span class="text-primary">Mark O. Madsen</span>. Dominance FC’s vision is to establish Europe’s <span class="text-primary">premier fight promotion</span>, hosting multiple DFC events annually. Dominance FC is dedicated to advancing the sport of MMA in Europe, <span class="text-primary">creating exceptional experiences</span> for fighters and fans alike.</>
         </div>
 
-        <div class="">
-            <img src="images/about2.jpg" class="w-100 p-0" alt="Billede af ringen">
+        <div class="px-0">
+            <img src="images/about2.jpg" class="w-100 img-fluid" alt="Billede af ringen">
         </div>
 
         <div class="text-start p-5">
-            <p class="h4 text-primary">WHY DOMINANCE FC?</p>
+            <p class="h5 text-primary custom-text mb-3">WHY DOMINANCE FC?</p>
             <p class="h6 text-uppercase lh-lg">MMA, or Mixed Martial Arts, is the <span class="text-primary">world’s fastest-growing sport</span>, and we see <span class="text-primary">enormous potential</span> in the European MMA scene. Dominance FC aims to create a platform that matches this growth, promotes the sport in Europe, and provides <span class="text-primary">European talents</span> with an international stage to develop their potential and build their brand.</p>
         </div>
 
-        <div class="">
-            <img src="images/about3.jpg" class="w-100 p-0" alt="Billede af Mark O. Madsen">
+        <div class="px-0">
+            <img src="images/about3.jpg" class="w-100 img-fluid" alt="Billede af Mark O. Madsen">
         </div>
     </div>
 </div>
