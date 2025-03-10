@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-sm navbar-expand-md navbar-dark z-3 bg-secondary">
     <div class="container-fluid">
-        <img src="images/ADlogo.png" alt="Logo" style="height: 30px;">
+        <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -18,8 +18,8 @@
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center">
                             <a href="#">TICKETS</a> <br>
-                            <a href="#">EVENTS</a> <br>
-                            <a href="#">PAYPERVIEW</a>
+                            <a href="../events.php">EVENTS</a> <br>
+                            <a href="../ppv.php">PAYPERVIEW</a>
                         </div>
                     </div>
                 </div>
@@ -33,11 +33,11 @@
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center">
-                            <a href="#">BEHIND THE SCENES</a> <br>
-                            <a href="#">PREVIOUS FIGHTS</a> <br>
-                            <a href="#">SHOP</a> <br>
-                            <a href="#">PODCAST</a> <br>
-                            <a href="#">ABOUT</a>
+                            <a href="../behindTheScenes.php">BEHIND THE SCENES</a> <br>
+                            <a href="../previousEvents.php">PREVIOUS FIGHTS</a> <br>
+                            <a href="../shop.php">SHOP</a> <br>
+                            <a href="../podcast.php">PODCAST</a> <br>
+                            <a href="../about.php">VISION</a>
                         </div>
                     </div>
                 </div>
@@ -51,9 +51,9 @@
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center">
-                            <a href="#">CONTACT</a> <br>
-                            <a href="#">FIGHTER SIGNUP</a> <br>
-                            <a href="#">SPONSOR INFO</a>
+                            <a href="../contact.php">CONTACT</a> <br>
+                            <a href="../fighterSignup.php">FIGHTER SIGNUP</a> <br>
+                            <a href="../sponsorInfo.php">SPONSOR INFO</a>
                         </div>
                     </div>
                 </div>
