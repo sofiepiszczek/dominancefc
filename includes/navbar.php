@@ -1,8 +1,8 @@
-<nav class="navbar navbar-expand-sm navbar-expand-md navbar-dark z-3 bg-secondary">
+<nav class="navbar navbar-expand-sm z-3 bg-secondary">
     <div class="container-fluid">
         <img src="images/ADlogo.png" alt="Logo" style="height: 30px;">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-            <span class="navbar-toggler-icon"></span>
+            <i class="fa-solid fa-bars text-primary"></i>
         </button>
 
         <div class="collapse navbar-collapse collapse" id="collapsibleNavbar">

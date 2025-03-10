@@ -17,6 +17,7 @@ require "settings/init.php";
     <meta name="copyright" content="Information om copyright">
 
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
