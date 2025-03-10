@@ -61,7 +61,7 @@ p,h1,h2{
 	position: relative;
 	height: 100%;
 	z-index: 2;
-	font-size: 3rem;
+	font-size: 1rem;
 	padding: 20px;
 }
 .banner{
@@ -81,6 +81,10 @@ p,h1,h2{
 .accordion-button {
 	border: none !important;
 	box-shadow: none !important;
+
+}
+.accordion-button ::after{
+	color: #fa4516;
 }
 
 /* Remove borders from accordion body */
@@ -89,6 +93,10 @@ p,h1,h2{
 }
 .accordion-button:not(.collapsed) {
 	background-color: #1c1c1c !important;
+	--bs-accordion-active-color: #fa4516;
+}
+.accordion-button::after {
+	filter: invert(34%) sepia(97%) saturate(1810%) hue-rotate(349deg) brightness(99%) contrast(102%);
 }
 
 
@@ -113,6 +121,20 @@ p,h1,h2{
 	align-items: center;
 	justify-content: center;
 	border-radius: 50%;
+}
+
+.hero-section {
+	background-image: url('../images/ppv.jpg'); /* Sti til dit billede */
+	background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
+	background-position: center; /* Centrerer billedet */
+	height: 500px; /* Justér efter behov */
+}
+
+.eventbaggrund{
+	background-image: url('../images/eventBG.png'); /* Sti til dit billede */
+	background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
+	background-position: center; /* Centrerer billedet */
+	height: 2000px; /* Justér efter behov */
 }
 
 

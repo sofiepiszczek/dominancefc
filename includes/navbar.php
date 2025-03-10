@@ -1,15 +1,16 @@
-<nav class="navbar navbar-expand-sm navbar-dark z-3 bg-secondary">
+<script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
+<nav class="navbar navbar-expand-sm z-3 bg-secondary">
     <div class="container-fluid">
-        <img src="images/ADlogo.png" alt="Logo" style="height: 30px;">
+        <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-            <span class="navbar-toggler-icon"></span>
+            <i class="fa-solid fa-bars text-primary"></i>
         </button>
 
         <div class="collapse navbar-collapse collapse" id="collapsibleNavbar">
-            <div class="accordion border-0 mt-2" id="accordionExample">
+            <div class="accordion border-0 mt-2 text-primary" id="accordionExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header custom-text" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                             EXPERIENCE
                         </button>
@@ -18,8 +19,8 @@
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center">
                             <a href="#">TICKETS</a> <br>
-                            <a href="#">EVENTS</a> <br>
-                            <a href="#">PAYPERVIEW</a>
+                            <a href="../events.php">EVENTS</a> <br>
+                            <a href="../ppv.php">PAYPERVIEW</a>
                         </div>
                     </div>
                 </div>
@@ -33,11 +34,11 @@
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center">
-                            <a href="#">BEHIND THE SCENES</a> <br>
-                            <a href="#">PREVIOUS FIGHTS</a> <br>
-                            <a href="#">SHOP</a> <br>
-                            <a href="#">PODCAST</a> <br>
-                            <a href="#">ABOUT</a>
+                            <a href="../behindTheScenes.php">BEHIND THE SCENES</a> <br>
+                            <a href="../previousEvents.php">PREVIOUS FIGHTS</a> <br>
+                            <a href="../shop.php">SHOP</a> <br>
+                            <a href="../podcast.php">PODCAST</a> <br>
+                            <a href="../about.php">VISION</a>
                         </div>
                     </div>
                 </div>
@@ -51,9 +52,9 @@
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center">
-                            <a href="#">CONTACT</a> <br>
-                            <a href="#">FIGHTER SIGNUP</a> <br>
-                            <a href="#">SPONSOR INFO</a>
+                            <a href="../contact.php">CONTACT</a> <br>
+                            <a href="../fighterSignup.php">FIGHTER SIGNUP</a> <br>
+                            <a href="../sponsorInfo.php">SPONSOR INFO</a>
                         </div>
                     </div>
                 </div>
