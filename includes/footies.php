@@ -5,14 +5,28 @@
 
         <div class="row flex-wrap gap-2">
             <a class="h5 custom-text">EXPERIENCE</a>
-            <a href="index.php" class="h6">Tickets<br>Events<br>Payperview</a>
+            <a href="index.php" class="h6">Tickets</a>
+            <a href="#" class="h6">Events</a>
+            <a href="#" class="h6">Payperview</a>
+
             <br>
+
             <a class="h5 custom-text">DISCOVER</a>
-            <a href="index.php" class="h6">Behind The Scenes <br> Previous Fights <br> Shop <br> Podcast <br> About <br>
-                Cookie Policy (EU) <br> Privacy Statment (EU)</a>
+            <a href="index.php" class="h6">Behind The Scenes</a>
+            <a href="#" class="h6">Previous Fights</a>
+            <a href="#" class="h6">Shop</a>
+            <a href="#" class="h6">Podcast</a>
+            <a href="#" class="h6">About</a>
+            <a href="#" class="h6">Cookie Policy (EU)</a>
+            <a href="#" class="h6">Privacy Statement (EU)</a>
+
             <br>
+
             <a class="h5 custom-text">BE FAMILY</a>
-            <a href="index.php" class="h6">Contact <br> Fighter Signup <br> Sponsor Info</a>
+            <a href="index.php" class="h6">Contact</a>
+            <a href="#" class="h6">Fighter Signup</a>
+            <a href="#" class="h6">Sponsor Info</a>
+
             <br>
         </div>
 
