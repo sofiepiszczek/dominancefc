@@ -35,26 +35,26 @@ include ("includes/navbar.php");
 
         <div class="text-center pb-4">
             <p class="h1 text-primary custom-text py-5">CONTACT</p>
-            <p class="px-4"><strong>For all media and press-related inquiries, please contact our PR team. We look forward to assisting you with your questions, interview requests, and any other press-related matters.</strong></p>
+            <p class="px-4">For all media and press-related inquiries, please contact our PR team. We look forward to assisting you with your questions, interview requests, and any other press-related matters.</p>
         </div>
 
 
         <div class="mb-3 px-4">
-            <label class="form-label text-white custom-text fs-4 text-start">NAME:</label>
+            <label class="form-label text-white custom-text fs-6 text-start">NAME:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT NAME HERE">
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">SURNAME:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">SURNAME:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT SURNAME HERE">
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">COMPANY:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">COMPANY:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT COMPANY HERE">
 
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">E-MAIL:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">E-MAIL:</label>
             <input type="email" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT E-MAIL HERE">
         </div>
 
         <div class="mb-3 px-4 pb-4">
-            <label class="form-label text-white custom-text mt-3 fs-4 text-start">MESSAGE:</label>
+            <label class="form-label text-white custom-text mt-3 fs-6 text-start">MESSAGE:</label>
             <textarea class="form-control bg-white custom-text text-secondary placeholder-gray" rows="5" placeholder="INSERT MESSAGE HERE"></textarea>
         </div>
 
