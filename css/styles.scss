@@ -139,12 +139,20 @@ p,h1,h2{
 }
 
 
+/* Skyggefarve til check-knap og ingen box-shadow i Fighter Signup */
 
+.form-check-input:checked {
+	background-color: #fa4516;
+	border-color: #fa4516;
+	box-shadow: none;
+}
 
+/* Ingen box-shadow til SoMe links i "Fighter Signup */
 
-
-
-
-
+.underline{
+	outline: none;
+	border-bottom: 1px solid white;
+	border-radius: 0;
+}
 
 
