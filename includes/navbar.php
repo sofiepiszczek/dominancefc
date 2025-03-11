@@ -68,14 +68,14 @@
 </nav>
 
 <!-- Top black bar with logo -->
-<nav class="navbar bg-secondary py-3 d-none d-sm-block">
+<nav class="navbar bg-secondary py-3 d-none d-sm-block z-3">
     <div class="container d-flex justify-content-center">
         <img src="../images/ADlogo.png" alt="Airtox Dominance Logo" style="height: 50px;">
     </div>
 </nav>
 
 <!-- Orange navigation bar -->
-<nav class="navbar bg-primary d-none d-sm-block w-75 mx-auto">
+<nav class="navbar bg-primary d-none d-sm-block w-75 mx-auto z-3">
     <div class="container d-flex justify-content-center bg-primary">
         <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
             <li class="nav-item custom-text"><a class="nav-link" href="#">Home</a></li>
