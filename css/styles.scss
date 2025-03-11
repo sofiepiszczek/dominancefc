@@ -163,6 +163,10 @@ select.custom-placeholder {
 	font-size: 14px;
 }
 
+.custom-fontsize{
+	font-size: 14px;
+}
+
 /* Fjerner standard styling på iOS (kalenderen */
 input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	color: #999EA6;
