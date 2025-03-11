@@ -10,13 +10,16 @@ require "settings/init.php";
 <head>
     <meta charset="utf-8">
     
-    <title>Dominance FC</title>
+    <title>Airtox Dominance FC</title>
     
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
     
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+
+    <!-- Favicon !-->
+    <link rel="icon" type="image/x-icon" href="images/DominanceFavicon.png">
     
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
