@@ -36,17 +36,18 @@ require "settings/init.php";
             <p class="px-4">Apply for our fighter roster! <br> Do you have what it takes to perform at the top level, and compete with some of the best and most prominent fighters in the world?</p>
         </div>
 
-
         <div class="mb-3 px-4">
             <label class="form-label text-white custom-text fs-6 text-start">FULL NAME:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT FULL NAME HERE">
 
+
             <label class="form-label text-white custom-text mt-5 fs-6 text-start">EXPERIENCE:</label>
-            <select class="form-select bg-white custom-text text-secondary placeholder-gray py-3 custom-placeholder" aria-label="Default select example ">
+            <select class="form-select bg-white custom-text text-secondary placeholder-gray py-3 custom-placeholder" aria-label="Select your experience">
                 <option selected>SELECT YOUR EXPERIENCE</option>
                 <option value="1">PROFESSIONAL</option>
                 <option value="2">AMATEUR</option>
             </select>
+
 
             <label class="form-label text-white custom-text mt-5 fs-6 text-start">DATE OF BIRTH:</label>
             <input type="date" class="form-control bg-white custom-text text-secondary placeholder-gray py-3 custom-placeholder" placeholder="INSERT DATE OF BIRTH HERE">
