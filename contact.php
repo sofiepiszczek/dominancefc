@@ -33,7 +33,7 @@ include ("includes/navbar.php");
 
 <div class="container">
     <div class="row justify-content-center text-center">
-        <div class="col-md-8">
+        <div class="col-md-6">
             <p class="h1 text-primary custom-text py-5">CONTACT</p>
             <p class="px-4"><strong>For all media and press-related inquiries, please contact our PR team.</strong> <br> We look forward to assisting you with your questions, interview requests, and any other press-related matters.</p>
         </div>
@@ -65,7 +65,7 @@ include ("includes/navbar.php");
             <textarea class="form-control bg-white custom-text text-secondary placeholder-gray" rows="5" placeholder="INSERT MESSAGE HERE"></textarea>
         </div>
 
-        <div class="mt-4 mb-5 text-center">
+        <div class="mt-5 mb-5 text-center">
             <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">SUBMIT</button>
         </div>
     </div>
