@@ -36,7 +36,7 @@
                         <div class="accordion-body custom-text text-center">
                             <a href="../behindTheScenes.php">BEHIND THE SCENES</a> <br>
                             <a href="../previousEvents.php">PREVIOUS FIGHTS</a> <br>
-                            <a href="../shop.php">Merch</a> <br>
+                            <a href="../shop.php">MERCH</a> <br>
                             <a href="../podcast.php">PODCAST</a> <br>
                             <a href="../about.php">ABOUT</a>
                         </div>
@@ -98,7 +98,7 @@
                 <a class="nav-link dropdown-toggle" href="#" id="discoverDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Discover
                 </a>
-                <ul class="dropdown-menu text-white" aria-labelledby="discoverDropdown">
+                <ul class="dropdown-menu text-white " aria-labelledby="discoverDropdown">
                     <li><a class="dropdown-item" href="../behindTheScenes.php">Behind the scenes</a></li>
                     <li><a class="dropdown-item" href="../previousEvents.php">Previous fights</a></li>
                     <li><a class="dropdown-item" href="../shop.php">Merch</a></li>
