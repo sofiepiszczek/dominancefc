@@ -77,14 +77,14 @@
 </nav>
 
 <!-- Orange navigation bar -->
-<nav class="navbar bg-primary d-none d-sm-block w-75 mx-auto z-3">
+<nav class="navbar bg-primary d-none d-sm-block w-75 mx-auto z-3 p-0">
     <div class="container d-flex justify-content-center bg-primary">
         <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
-            <li class="nav-item custom-text"><a class="nav-link" href="#">Home</a></li>
+            <li class="nav-item custom-text"><a class="nav-link me-4" href="#">Home</a></li>
             <li class="nav-item nav-divider mt-2">｜</li>
             <!-- Experience Dropdown -->
             <li class="nav-item dropdown custom-text">
-                <a class="nav-link dropdown-toggle" href="#" id="experienceDropdown" role="button"
+                <a class="nav-link dropdown-toggle ms-4 me-4" href="#" id="experienceDropdown" role="button"
                    data-bs-toggle="dropdown" aria-expanded="false">
                     Experience
                 </a>
@@ -100,7 +100,7 @@
 
             <!-- Discover Dropdown -->
             <li class="nav-item dropdown custom-text">
-                <a class="nav-link dropdown-toggle" href="#" id="discoverDropdown" role="button"
+                <a class="nav-link dropdown-toggle ms-4 me-4" href="#" id="discoverDropdown" role="button"
                    data-bs-toggle="dropdown" aria-expanded="false">
                     Discover
                 </a>
@@ -115,7 +115,7 @@
 
             <!-- Be Family Dropdown -->
             <li class="nav-item dropdown custom-text">
-                <a class="nav-link dropdown-toggle" href="#" id="beFamilyDropdown" role="button"
+                <a class="nav-link dropdown-toggle ms-4" href="#" id="beFamilyDropdown" role="button"
                    data-bs-toggle="dropdown" aria-expanded="false">
                     Be Family
                 </a>
