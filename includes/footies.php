@@ -1,9 +1,9 @@
-<div class="container">
+<div class="container-fluid">
     <div class="orange-line bg-primary w-75 mx-auto mt-5"></div>
 
-    <div class="row text-white p-5 mt-3 justify-content-center">
+    <div class="row text-white p-5 mt-3 justify-content-center px-lg-5">
         <div class="col-md-10 offset-md-1">
-            <div class="row justify-content-between">
+            <div class="row justify-content-between gx-lg-5">
 
                 <div class="col-lg-4 mb-5">
                     <div class="d-flex flex-column gap-2 text-start">
