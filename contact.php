@@ -35,7 +35,7 @@ include ("includes/navbar.php");
     <div class="row justify-content-center text-center">
         <div class="col-md-8">
             <p class="h1 text-primary custom-text py-5">CONTACT</p>
-            <p class="px-4">For all media and press-related inquiries, please contact our PR team. We look forward to assisting you with your questions, interview requests, and any other press-related matters.</p>
+            <p class="px-4"><strong>For all media and press-related inquiries, please contact our PR team.</strong> <br> We look forward to assisting you with your questions, interview requests, and any other press-related matters.</p>
         </div>
     </div>
 
