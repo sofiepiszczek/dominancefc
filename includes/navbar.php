@@ -18,7 +18,7 @@
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center">
-                            <a href="#">TICKETS</a> <br>
+                            <a href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">TICKETS</a> <br>
                             <a href="../events.php">EVENTS</a> <br>
                             <a href="../ppv.php">PAYPERVIEW</a>
                         </div>
@@ -36,7 +36,7 @@
                         <div class="accordion-body custom-text text-center">
                             <a href="../behindTheScenes.php">BEHIND THE SCENES</a> <br>
                             <a href="../previousEvents.php">PREVIOUS FIGHTS</a> <br>
-                            <a href="../shop.php">SHOP</a> <br>
+                            <a href="../shop.php">Merch</a> <br>
                             <a href="../podcast.php">PODCAST</a> <br>
                             <a href="../about.php">ABOUT</a>
                         </div>
@@ -60,7 +60,7 @@
                 </div>
             </div>
             <div class="col-12 custom-text text-center mt-3 mb-3">
-                <button type="submit" class="btn btn-primary text-white">BUY TICKETS</button>
+                <a type="submit" class="btn btn-primary text-white" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">BUY TICKETS</a>
             </div>
         </div>
     </div>
@@ -70,7 +70,7 @@
 <!-- Top black bar with logo -->
 <nav class="navbar bg-secondary py-3 d-none d-sm-block z-3">
     <div class="container d-flex justify-content-center">
-        <img src="../images/ADlogo.png" alt="Airtox Dominance Logo" style="height: 50px;">
+        <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 50px;"></a>
     </div>
 </nav>
 
@@ -79,12 +79,46 @@
     <div class="container d-flex justify-content-center bg-primary">
         <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
             <li class="nav-item custom-text"><a class="nav-link" href="#">Home</a></li>
-            <li class="nav-item nav-divider">-</li>
-            <li class="nav-item custom-text"><a class="nav-link" href="#">Experience</a></li>
-            <li class="nav-item nav-divider">-</li>
-            <li class="nav-item custom-text"><a class="nav-link" href="#">Discover</a></li>
-            <li class="nav-item nav-divider">-</li>
-            <li class="nav-item custom-text"><a class="nav-link" href="#">Be Family</a></li>
+            <li class="nav-item nav-divider pt-2">｜</li>
+            <!-- Experience Dropdown -->
+            <li class="nav-item dropdown custom-text">
+                <a class="nav-link dropdown-toggle" href="#" id="experienceDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Experience
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="experienceDropdown">
+                    <li><a class="dropdown-item" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">Tickets</a></li>
+                    <li><a class="dropdown-item" href="../events.php">Events</a></li>
+                    <li><a class="dropdown-item" href="../ppv.php">Payperview</a></li>
+                </ul>
+            </li>
+            <li class="nav-item nav-divider pt-2">｜</li>
+
+            <!-- Discover Dropdown -->
+            <li class="nav-item dropdown custom-text">
+                <a class="nav-link dropdown-toggle" href="#" id="discoverDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Discover
+                </a>
+                <ul class="dropdown-menu text-white" aria-labelledby="discoverDropdown">
+                    <li><a class="dropdown-item" href="../behindTheScenes.php">Behind the scenes</a></li>
+                    <li><a class="dropdown-item" href="../previousEvents.php">Previous fights</a></li>
+                    <li><a class="dropdown-item" href="../shop.php">Merch</a></li>
+                    <li><a class="dropdown-item" href="../podcast.php">Podcast</a></li>
+                    <li><a class="dropdown-item" href="../about.php">About</a></li>
+                </ul>
+            </li>
+            <li class="nav-item nav-divider pt-2">｜</li>
+
+            <!-- Be Family Dropdown -->
+            <li class="nav-item dropdown custom-text">
+                <a class="nav-link dropdown-toggle" href="#" id="beFamilyDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Be Family
+                </a>
+                <ul class="dropdown-menu text-white" aria-labelledby="beFamilyDropdown">
+                    <li><a class="dropdown-item" href="../contact.php">Contact</a></li>
+                    <li><a class="dropdown-item" href="../fighterSignup.php">Fighter Signup</a></li>
+                    <li><a class="dropdown-item" href="../sponsorInfo.php">Sponsor Info</a></li>
+                </ul>
+            </li>
         </ul>
     </div>
 </nav>
