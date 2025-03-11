@@ -70,6 +70,9 @@ p,h1,h2{
 	height: 900px;
 }
 
+
+/* NAV */
+
 .orange-line {
 	height: 2px;
 }
@@ -83,8 +86,8 @@ p,h1,h2{
 .accordion-button {
 	border: none !important;
 	box-shadow: none !important;
-
 }
+
 .accordion-button ::after{
 	color: #fa4516;
 }
@@ -93,16 +96,26 @@ p,h1,h2{
 .accordion-body {
 	border: none !important;
 }
+
 .accordion-button:not(.collapsed) {
 	background-color: #1c1c1c !important;
 	--bs-accordion-active-color: #fa4516;
 }
+
 .accordion-button::after {
 	filter: invert(34%) sepia(97%) saturate(1810%) hue-rotate(349deg) brightness(99%) contrast(102%);
 }
 
 .dropdown-item{
 	color: white;
+}
+
+.custom-text .nav-link {
+	font-size: 1.3vw; /* Font size scales with viewport width */
+}
+
+.nav-divider {
+	font-size: 1.3vw; /* Ensure the divider also scales */
 }
 
 

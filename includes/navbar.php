@@ -81,7 +81,7 @@
     <div class="container d-flex justify-content-center bg-primary">
         <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
             <li class="nav-item custom-text"><a class="nav-link" href="#">Home</a></li>
-            <li class="nav-item nav-divider pt-2">｜</li>
+            <li class="nav-item nav-divider mt-2">｜</li>
             <!-- Experience Dropdown -->
             <li class="nav-item dropdown custom-text">
                 <a class="nav-link dropdown-toggle" href="#" id="experienceDropdown" role="button"
@@ -96,7 +96,7 @@
                     <li><a class="dropdown-item" href="../ppv.php">Payperview</a></li>
                 </ul>
             </li>
-            <li class="nav-item nav-divider pt-2">｜</li>
+            <li class="nav-item nav-divider mt-2">｜</li>
 
             <!-- Discover Dropdown -->
             <li class="nav-item dropdown custom-text">
@@ -112,7 +112,7 @@
                     <li><a class="dropdown-item" href="../about.php">About</a></li>
                 </ul>
             </li>
-            <li class="nav-item nav-divider pt-2">｜</li>
+            <li class="nav-item nav-divider mt-2">｜</li>
 
             <!-- Be Family Dropdown -->
             <li class="nav-item dropdown custom-text">
