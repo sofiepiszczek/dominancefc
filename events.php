@@ -24,26 +24,32 @@ include ("includes/navbar.php");
 
 <h1 class="custom-text text-center py-4">EVENTS</h1>
 
-<div class="container-fluid eventbaggrund w-100">
+<div class="container-fluid eventbaggrund w-100 px-lg-4">
     <div class="row">
 
-
         <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center bg-primary bg-opacity-25 text-start custom-text py-5">
-            <h2>NEXT EVENT</h2>
-            <div class="col-10 card shadow-lg rounded-0 bg-secondary my-4 px-3">
-                    <h2 class="pt-3 fs-4 text-white">DOMINANCE FC 3.0</h2>
-                    <p class="py-2 fs-5 text-primary">MMA at KB Hallen, Copenhagen</p>
+            <div class="col-12">
+                <h2 class="text-center">NEXT EVENT</h2>
+            </div>
+
+            <div class="col-10 col-md-6 col-lg-5 py-lg-5 py-md-3 card shadow-lg rounded-0 bg-secondary my-4 px-3 ps-lg-4">
+                    <h2 class="pt-3 pt-lg-4 fs-4 text-white">DOMINANCE FC 3.0</h2>
+                    <p class="py-2 pt-lg-3 fs-5 text-primary">MMA at KB Hallen, Copenhagen</p>
                 <p class=" fs-6 text-white text-start">26/04/2025</p>
                 <div class="d-inline-flex justify-content-center align-items-center">
-                <div class="col-6 text-center pb-3">
+                <div class="col-6 text-center pb-3 pt-lg-4">
                 <a href="" class="btn bg-primary text-white fs-5">BUY TICKETS</a>
                 </div>
                 </div>
             </div>
         </div>
 
-        <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
-            <div class="col-10 card shadow-lg rounded-0 bg-secondary my-4 px-3">
+        <div class="col-12 custom-text text-center pt-5">
+            <h2>UPCOMING EVENTS</h2>
+        </div>
+
+        <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
+            <div class="col-10 col-lg-8 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
                 <h2 class="pt-3 fs-4 text-white">DOMINANCE FC 4.0</h2>
                 <p class="py-2 fs-5 text-primary">MMA at KB Hallen, Copenhagen</p>
                 <p class=" fs-6 text-white text-start">20/09/2025</p>
@@ -55,8 +61,8 @@ include ("includes/navbar.php");
             </div>
         </div>
 
-        <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
-            <div class="col-10 card shadow-lg rounded-0 bg-secondary my-4 px-3">
+        <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
+            <div class="col-10 col-lg-8 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
                 <h2 class="pt-3 fs-4 text-white">DOMINANCE FC 5.0</h2>
                 <p class="py-2 fs-5 text-primary">MMA at KB Hallen, Copenhagen</p>
                 <p class=" fs-6 text-white text-start">20/12/2025</p>
@@ -68,11 +74,11 @@ include ("includes/navbar.php");
             </div>
         </div>
 
-        <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
-            <div class="col-10 card shadow-lg rounded-0 bg-secondary my-4 px-3">
+        <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
+            <div class="col-10 col-lg-8 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
                 <h2 class="pt-3 fs-4 text-white">DOMINANCE FC 6.0</h2>
                 <p class="py-2 fs-5 text-primary">MMA at KB Hallen, Copenhagen</p>
-                <p class=" fs-6 text-white text-start">20/03/2025</p>
+                <p class=" fs-6 text-white text-start">20/03/2026</p>
                 <div class="d-inline-flex justify-content-center align-items-center">
                     <div class="col-6 text-center pb-3">
                         <a href="" class="btn bg-primary text-white">BUY TICKETS</a>
@@ -81,6 +87,18 @@ include ("includes/navbar.php");
             </div>
         </div>
 
+        <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
+            <div class="col-10 col-lg-8 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
+                <h2 class="pt-3 fs-4 text-white">DOMINANCE FC 7.0</h2>
+                <p class="py-2 fs-5 text-primary">MMA at KB Hallen, Copenhagen</p>
+                <p class=" fs-6 text-white text-start">03/04/2026</p>
+                <div class="d-inline-flex justify-content-center align-items-center">
+                    <div class="col-6 text-center pb-3">
+                        <a href="" class="btn bg-primary text-white">BUY TICKETS</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 

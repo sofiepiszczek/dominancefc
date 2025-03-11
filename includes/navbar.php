@@ -17,9 +17,9 @@
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                          data-bs-parent="#accordionExample">
-                        <div class="accordion-body custom-text text-center">
-                            <a href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">TICKETS</a> <br>
-                            <a href="../events.php">EVENTS</a> <br>
+                        <div class="accordion-body custom-text text-center d-flex flex-column gap-3">
+                            <a href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">TICKETS</a>
+                            <a href="../events.php">EVENTS</a>
                             <a href="../ppv.php">PAYPERVIEW</a>
                         </div>
                     </div>
@@ -33,11 +33,11 @@
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                          data-bs-parent="#accordionExample">
-                        <div class="accordion-body custom-text text-center">
-                            <a href="../behindTheScenes.php">BEHIND THE SCENES</a> <br>
-                            <a href="../previousEvents.php">PREVIOUS FIGHTS</a> <br>
-                            <a href="../shop.php">Merch</a> <br>
-                            <a href="../podcast.php">PODCAST</a> <br>
+                        <div class="accordion-body custom-text text-center d-flex flex-column gap-3">
+                            <a href="../behindTheScenes.php">BEHIND THE SCENES</a>
+                            <a href="../previousEvents.php">PREVIOUS FIGHTS</a>
+                            <a href="../shop.php">MERCH</a>
+                            <a href="../podcast.php">PODCAST</a>
                             <a href="../about.php">ABOUT</a>
                         </div>
                     </div>
@@ -51,16 +51,18 @@
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                          data-bs-parent="#accordionExample">
-                        <div class="accordion-body custom-text text-center">
-                            <a href="../contact.php">CONTACT</a> <br>
-                            <a href="../fighterSignup.php">FIGHTER SIGNUP</a> <br>
+                        <div class="accordion-body custom-text text-center d-flex flex-column gap-3">
+                            <a href="../contact.php">CONTACT</a>
+                            <a href="../fighterSignup.php">FIGHTER SIGNUP</a>
                             <a href="../sponsorInfo.php">SPONSOR INFO</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-12 custom-text text-center mt-3 mb-3">
-                <a type="submit" class="btn btn-primary text-white" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">BUY TICKETS</a>
+                <a type="submit" class="btn btn-primary text-white"
+                   href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">BUY
+                    TICKETS</a>
             </div>
         </div>
     </div>
@@ -82,11 +84,14 @@
             <li class="nav-item nav-divider pt-2">｜</li>
             <!-- Experience Dropdown -->
             <li class="nav-item dropdown custom-text">
-                <a class="nav-link dropdown-toggle" href="#" id="experienceDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" id="experienceDropdown" role="button"
+                   data-bs-toggle="dropdown" aria-expanded="false">
                     Experience
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="experienceDropdown">
-                    <li><a class="dropdown-item" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">Tickets</a></li>
+                    <li><a class="dropdown-item"
+                           href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">Tickets</a>
+                    </li>
                     <li><a class="dropdown-item" href="../events.php">Events</a></li>
                     <li><a class="dropdown-item" href="../ppv.php">Payperview</a></li>
                 </ul>
@@ -95,10 +100,11 @@
 
             <!-- Discover Dropdown -->
             <li class="nav-item dropdown custom-text">
-                <a class="nav-link dropdown-toggle" href="#" id="discoverDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" id="discoverDropdown" role="button"
+                   data-bs-toggle="dropdown" aria-expanded="false">
                     Discover
                 </a>
-                <ul class="dropdown-menu text-white" aria-labelledby="discoverDropdown">
+                <ul class="dropdown-menu text-white " aria-labelledby="discoverDropdown">
                     <li><a class="dropdown-item" href="../behindTheScenes.php">Behind the scenes</a></li>
                     <li><a class="dropdown-item" href="../previousEvents.php">Previous fights</a></li>
                     <li><a class="dropdown-item" href="../shop.php">Merch</a></li>
@@ -110,7 +116,8 @@
 
             <!-- Be Family Dropdown -->
             <li class="nav-item dropdown custom-text">
-                <a class="nav-link dropdown-toggle" href="#" id="beFamilyDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" id="beFamilyDropdown" role="button"
+                   data-bs-toggle="dropdown" aria-expanded="false">
                     Be Family
                 </a>
                 <ul class="dropdown-menu text-white" aria-labelledby="beFamilyDropdown">
