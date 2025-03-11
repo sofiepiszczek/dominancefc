@@ -75,12 +75,10 @@ p,h1,h2{
 	height: 2px;
 }
 
-/* Remove borders from accordion items */
-.accordion-item {
-	border: none !important;
-}
 
-/* Remove borders and box-shadow from accordion buttons */
+
+
+/* Fjern ramme og box-shadow fra accordion knapper */
 .accordion-button {
 	border: none !important;
 	box-shadow: none !important;
@@ -90,10 +88,15 @@ p,h1,h2{
 	color: #fa4516;
 }
 
-/* Remove borders from accordion body */
+/* Fjern ramme fra accordion */
 .accordion-body {
 	border: none !important;
 }
+
+.accordion-item {
+	border: none !important;
+}
+
 .accordion-button:not(.collapsed) {
 	background-color: #1c1c1c !important;
 	--bs-accordion-active-color: #fa4516;
@@ -158,4 +161,7 @@ p,h1,h2{
 	border-radius: 0;
 }
 
+.nav-item a {
+	font-size: clamp(0.7rem, 2vw, 0.9rem);
+}
 
