@@ -153,6 +153,11 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	font-size: 14px;
 }
 
+/* Fjerner skyggefarve i formular på Fighter Signup og Contact */
+
+.form-control, .form-select {
+    box-shadow: none !important;
+}
 
 /* Skyggefarve til check-knap og ingen box-shadow i Fighter Signup */
 
@@ -169,6 +174,10 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	border-bottom: 1px solid white;
 	border-radius: 0;
 }
+
+
+
+
 
 
 
