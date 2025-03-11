@@ -1,5 +1,5 @@
 <script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
-<nav class="navbar navbar-expand-sm z-3 bg-secondary pt-4 pb-4">
+<nav class="navbar navbar-expand-sm z-3 bg-secondary pt-4">
     <div class="container-fluid">
         <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -38,7 +38,7 @@
                             <a href="../previousEvents.php">PREVIOUS FIGHTS</a> <br>
                             <a href="../shop.php">SHOP</a> <br>
                             <a href="../podcast.php">PODCAST</a> <br>
-                            <a href="../about.php">VISION</a>
+                            <a href="../about.php">ABOUT</a>
                         </div>
                     </div>
                 </div>
