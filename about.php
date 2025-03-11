@@ -37,7 +37,7 @@ include ("includes/navbar.php");
             <p class="h1 text-primary py-5 custom-text">ABOUT</p>
         </div>
 
-        <div class="col-md-5 d-flex flex-column align-items-center px-4">
+        <div class="col-md-5 px-4">
             <img src="images/about1.jpg" class="w-75 img-fluid mb-4" alt="Portræt af Mark O. Madsen">
         </div>
         <div class="col-md-5 text-start p-5">
