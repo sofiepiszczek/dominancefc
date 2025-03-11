@@ -1,5 +1,5 @@
 <script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
-<nav class="navbar navbar-expand-sm z-3 bg-secondary pt-4">
+<nav class="navbar navbar-expand-sm z-3 bg-secondary pt-4 d-sm-none">
     <div class="container-fluid">
         <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -65,4 +65,26 @@
         </div>
     </div>
     <div class="orange-line bg-primary w-75 bottom-0 mx-auto mt-3"></div>
+</nav>
+
+<!-- Top black bar with logo -->
+<nav class="navbar bg-secondary py-3 d-none d-sm-block">
+    <div class="container d-flex justify-content-center">
+        <img src="../images/ADlogo.png" alt="Airtox Dominance Logo" style="height: 50px;">
+    </div>
+</nav>
+
+<!-- Orange navigation bar -->
+<nav class="navbar bg-primary d-none d-sm-block w-75 mx-auto">
+    <div class="container d-flex justify-content-center bg-primary">
+        <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
+            <li class="nav-item custom-text"><a class="nav-link" href="#">Home</a></li>
+            <li class="nav-item nav-divider">-</li>
+            <li class="nav-item custom-text"><a class="nav-link" href="#">Experience</a></li>
+            <li class="nav-item nav-divider">-</li>
+            <li class="nav-item custom-text"><a class="nav-link" href="#">Discover</a></li>
+            <li class="nav-item nav-divider">-</li>
+            <li class="nav-item custom-text"><a class="nav-link" href="#">Be Family</a></li>
+        </ul>
+    </div>
 </nav>
