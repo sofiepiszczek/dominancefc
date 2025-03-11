@@ -36,7 +36,6 @@
                         <div class="accordion-body custom-text text-center d-flex flex-column gap-3">
                             <a href="../behindTheScenes.php">BEHIND THE SCENES</a>
                             <a href="../previousEvents.php">PREVIOUS FIGHTS</a>
-                            <a href="../shop.php">MERCH</a>
                             <a href="../podcast.php">PODCAST</a>
                             <a href="../about.php">ABOUT</a>
                         </div>
@@ -52,6 +51,7 @@
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center d-flex flex-column gap-3">
+                            <a href="../shop.php">MERCH</a>
                             <a href="../contact.php">CONTACT</a>
                             <a href="../fighterSignup.php">FIGHTER SIGNUP</a>
                             <a href="../sponsorInfo.php">SPONSOR INFO</a>
@@ -107,7 +107,6 @@
                 <ul class="dropdown-menu text-white " aria-labelledby="discoverDropdown">
                     <li><a class="dropdown-item" href="../behindTheScenes.php">Behind the scenes</a></li>
                     <li><a class="dropdown-item" href="../previousEvents.php">Previous fights</a></li>
-                    <li><a class="dropdown-item" href="../shop.php">Merch</a></li>
                     <li><a class="dropdown-item" href="../podcast.php">Podcast</a></li>
                     <li><a class="dropdown-item" href="../about.php">About</a></li>
                 </ul>
@@ -121,6 +120,7 @@
                     Be Family
                 </a>
                 <ul class="dropdown-menu text-white" aria-labelledby="beFamilyDropdown">
+                    <li><a class="dropdown-item" href="../shop.php">Merch</a></li>
                     <li><a class="dropdown-item" href="../contact.php">Contact</a></li>
                     <li><a class="dropdown-item" href="../fighterSignup.php">Fighter Signup</a></li>
                     <li><a class="dropdown-item" href="../sponsorInfo.php">Sponsor Info</a></li>
