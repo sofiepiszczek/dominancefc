@@ -34,7 +34,7 @@
             <div class="instagramIcon">
                 <i class="fa-brands fa-instagram text-white display-3"></i>
             </div>
-            <a target="_blank" href="https://www.instagram.com/airtoxdominancefc/" class="h6 mb-0">INSTAGRAM</a>
+            <a target="_blank" href="https://www.instagram.com/airtoxdominancefc/" class="h6 mb-0 custom-text">INSTAGRAM</a>
         </div>
     </div>
 </div>
