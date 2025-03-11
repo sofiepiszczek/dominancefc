@@ -80,7 +80,7 @@
 <nav class="navbar bg-primary d-none d-sm-block w-75 mx-auto z-3 p-0">
     <div class="container d-flex justify-content-center bg-primary">
         <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
-            <li class="nav-item custom-text"><a class="nav-link me-4" href="#">Home</a></li>
+            <li class="nav-item custom-text"><a class="nav-link me-4" href="../index.php">Home</a></li>
             <li class="nav-item nav-divider mt-2">｜</li>
             <!-- Experience Dropdown -->
             <li class="nav-item dropdown custom-text">
