@@ -134,7 +134,7 @@ p,h1,h2{
 	background-image: url('../images/eventBG.png'); /* Sti til dit billede */
 	background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
 	background-position: center; /* Centrerer billedet */
-	height: 2200px; /* Justér efter behov */
+	height: 2500px; /* Justér efter behov */
 }
 
 
@@ -211,6 +211,12 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	.policyText{
 		font-size: 0.6rem;
 	}
+	.eventbaggrund{
+		background-image: url('../images/eventBG.png'); /* Sti til dit billede */
+		background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
+		background-position: center; /* Centrerer billedet */
+		height: 1800px; /* Justér efter behov */
+	}
 }
 
 @media (min-width: 992px){
@@ -227,6 +233,12 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	}
 	.banner{
 		height: 700px;
+	}
+	.eventbaggrund{
+		background-image: url('../images/eventBG.png'); /* Sti til dit billede */
+		background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
+		background-position: center; /* Centrerer billedet */
+		height: 2000px; /* Justér efter behov */
 	}
 }
 
