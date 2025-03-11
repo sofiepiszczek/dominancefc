@@ -43,14 +43,14 @@ include ("includes/navbar.php");
 <div class="container-fluid">
     <div class="row">
         <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center bg-primary bg-opacity-25 text-center custom-text py-5">
-            <div class="col-10 col-md-8 col-lg-5 card shadow-lg rounded-0 bg-secondary my-4">
+            <div class="col-10 col-md-8 col-lg-5 card shadow-lg rounded-0 bg-secondary my-4 me-lg-4">
                 <h2 class="pt-3 pt-md-4 fs-1">NEXT EVENT</h2>
                 <p class="pb-1 fs-4 text-primary">26/04/2025</p>
                 <div class="p-3 px-md-5 pb-md-5">
                     <a href="events.php"><img src="images/nextevent2.png" class="img-fluid" alt="event billede"></a>
                 </div>
             </div>
-            <div class="col-10 col-md-8 col-lg-5 card shadow-lg rounded-0 bg-secondary my-4">
+            <div class="col-10 col-md-8 col-lg-5 card shadow-lg rounded-0 bg-secondary my-4 ms-lg-4">
                 <h2 class="pt-3 pt-md-4 fs-1">NEXT ACADEMY</h2>
                 <p class="pb-1 fs-4 text-primary">09/08/2025</p>
                 <div class="p-3 px-md-5 pb-md-5">
@@ -62,14 +62,14 @@ include ("includes/navbar.php");
             <a href="ppv.php">
             <img src="images/banner-pluto.png" class="img-fluid position-absolute object-fit-cover h-100 w-100" alt="mma fighter">
 
-                <div class="position-absolute top-50 start-50 translate-middle">
+                <div class="position-absolute top-50 start-50 translate-middle pb-5">
                     <p class="bannertext custom-text text-white text-center herotext">WATCH LIVE</p>
                 </div>
             </a>
         </div>
         <div class="container-fluid">
             <div class="row justify-content-center">
-            <div class="col-10 col-md-7 py-5 mb-4">
+            <div class="col-10 col-md-7 col-lg-9 py-5 mb-4">
                 <a href="behindTheScenes.php"><h2 class="custom-text text-white text-center py-3 herotext">DISCOVER MORE</h2></a>
             </div>
 
@@ -80,7 +80,7 @@ include ("includes/navbar.php");
             </div>
 
             <div class="col-12 text-center py-5">
-                <a href="behindTheScenes.php" class="btn bg-primary custom-text text-white p-2 px-md-3">WATCH MORE</a>
+                <a href="behindTheScenes.php" class="btn bg-primary custom-text text-white p-2 px-md-3 px-lg-5">WATCH MORE</a>
             </div>
 
 
