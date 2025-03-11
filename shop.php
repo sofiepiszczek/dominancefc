@@ -10,7 +10,7 @@ require "settings/init.php";
 <head>
     <meta charset="utf-8">
 
-    <title>Shop</title>
+    <title>Merch</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -36,7 +36,7 @@ include ("includes/navbar.php");
     <div class="row text-center justify-content-center align-items-center">
 
         <div class="pb-5">
-            <p class="h1 text-primary py-5 custom-text">SHOP</p>
+            <p class="h1 text-primary py-5 custom-text">MERCH</p>
             <p class="h4 text-white mb-0 custom-text">DRESS WITH</p>
             <p class="h1 text-white custom-text">DOMINANCE!</p>
         </div>
