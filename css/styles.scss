@@ -75,10 +75,12 @@ p,h1,h2{
 	height: 2px;
 }
 
+/* Remove borders from accordion items */
+.accordion-item {
+	border: none !important;
+}
 
-
-
-/* Fjern ramme og box-shadow fra accordion knapper */
+/* Remove borders and box-shadow from accordion buttons */
 .accordion-button {
 	border: none !important;
 	box-shadow: none !important;
@@ -88,15 +90,10 @@ p,h1,h2{
 	color: #fa4516;
 }
 
-/* Fjern ramme fra accordion */
+/* Remove borders from accordion body */
 .accordion-body {
 	border: none !important;
 }
-
-.accordion-item {
-	border: none !important;
-}
-
 .accordion-button:not(.collapsed) {
 	background-color: #1c1c1c !important;
 	--bs-accordion-active-color: #fa4516;
@@ -138,12 +135,29 @@ p,h1,h2{
 }
 
 
-/* Placeholder-farve til formular - contact & fighter signup */
+/* Placeholder-farve og skriftstørrelse til formular - contact & fighter signup */
 
 .placeholder-gray::placeholder {
 	color: #999EA6;
+	font-size: 14px;
 }
 
+select.custom-placeholder {
+	color: #999EA6 !important;
+	font-size: 14px;
+}
+
+/* Fjerner standard styling på iOS (kalenderen */
+input[type="date"].custom-placeholder::-webkit-datetime-edit {
+	color: #999EA6;
+	font-size: 14px;
+}
+
+/* Fjerner skyggefarve i formular på Fighter Signup og Contact */
+
+.form-control, .form-select {
+    box-shadow: none !important;
+}
 
 /* Skyggefarve til check-knap og ingen box-shadow i Fighter Signup */
 
@@ -161,9 +175,11 @@ p,h1,h2{
 	border-radius: 0;
 }
 
-.nav-item a {
-	font-size: clamp(0.7rem, 2vw, 0.9rem);
-}
+
+
+
+
+
 
 .dropdown-item{
 	color: white;
