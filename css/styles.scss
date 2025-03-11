@@ -32,14 +32,14 @@ p,h1,h2{
 }
 
 @font-face {
-	font-family: 'DFCfont'; /* Navngiv din font */
-	src: url('../font/TT-Supermolot-Neue-Trial-Extended-ExtraBold-Italic-BF65fcfb4f3737c.ttf') format('truetype'); /* Sti til .ttf */
+	font-family: 'DFCfont';
+	src: url('../font/TT-Supermolot-Neue-Trial-Extended-ExtraBold-Italic-BF65fcfb4f3737c.ttf') format('truetype');
 	font-weight: auto;
 	font-style: auto;
 }
 
 .custom-text {
-	font-family: 'DFCfont', sans-serif; /* Brug fonten */
+	font-family: 'DFCfont', sans-serif;
 }
 .bannertext{
 	font-size: 2.5rem;
@@ -116,24 +116,6 @@ p,h1,h2{
 
 .nav-divider {
 	font-size: 1.3vw; /* Ensure the divider also scales */
-}
-
-
-/* Footer */
-
-.instagramFooter {
-	display: flex;
-	align-items: center;
-	gap: 10px;
-}
-.instagramIcon {
-	background-color: #fa4516;
-	width: 50px;
-	height: 50px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	border-radius: 50%;
 }
 
 .hero-section {
@@ -259,4 +241,20 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	}
 }
 
+/* Orange ring bag Instagram ikon */
+.instagramBG {
+    width: 50px;
+    height: 50px;
+    background-color: #fa4516;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+/* Mindre Instagram ikon på desktop */
+@media (min-width: 768px) {
+    .instagramBG i {
+        font-size: 40px;
+    }
+}
