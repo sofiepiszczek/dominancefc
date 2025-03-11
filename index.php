@@ -64,13 +64,13 @@ include ("includes/navbar.php");
             <p class="custom-text text-white text-center fs-1">DISCOVER MORE</p>
             </div>
 
-            <div class="col-12 text-center pb-3">
-                <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw" width="75%" height="100%" title="YouTube video player"
+            <div class="col-12 text-center p-3 ratio ratio-16x9">
+                <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw" title="YouTube video player"
                         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
-            <div class="col-12 text-center py-4">
+            <div class="col-12 text-center py-5">
                 <a href="" class="btn bg-primary custom-text text-white p-2">WATCH MORE</a>
             </div>
             </div>
