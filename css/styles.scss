@@ -64,7 +64,6 @@ p,h1,h2{
 	position: relative;
 	height: 100%;
 	z-index: 2;
-	font-size: 1rem;
 	padding: 20px;
 }
 .banner{
@@ -131,7 +130,7 @@ p,h1,h2{
 	background-image: url('../images/eventBG.png'); /* Sti til dit billede */
 	background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
 	background-position: center; /* Centrerer billedet */
-	height: 2000px; /* Justér efter behov */
+	height: 2200px; /* Justér efter behov */
 }
 
 
@@ -175,6 +174,44 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	border-radius: 0;
 }
 
+.herotext{
+	font-size: 2.6rem;
+}
+.policyText{
+	font-size: 0.3rem;
+}
+
+
+@media (min-width: 768px){
+	.videobg{
+		width: 100%;
+		height: 1440px;
+		object-fit: cover;
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		z-index: 0;
+	}
+	.banner{
+		height: 1300px;
+	}
+	.herotext{
+		font-size: 4rem;
+	}
+	.bannertext{
+		font-size: 6.7rem;
+		padding-bottom: 60px;
+	}
+	.policyText{
+		font-size: 0.6rem;
+	}
+}
+
+@media (min-width: 992px){
+
+}
 
 
 
