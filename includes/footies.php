@@ -5,7 +5,7 @@
         <div class="col-md-10 offset-md-1">
             <div class="row justify-content-between">
 
-                <div class="col-md-4 mb-5">
+                <div class="col-lg-4 mb-5">
                     <div class="d-flex flex-column gap-2 text-start">
                         <a class="h5 custom-text">EXPERIENCE</a>
                         <a href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank" class="h6 mb-2">Tickets</a>
@@ -14,7 +14,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 mb-5">
+                <div class="col-lg-4 mb-5">
                     <div class="d-flex flex-column gap-2 text-start">
                         <a class="h5 custom-text">DISCOVER</a>
                         <a href="../behindTheScenes.php" class="h6 mb-2">Behind The Scenes</a>
@@ -26,7 +26,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 mb-5">
+                <div class="col-lg-4 mb-5">
                     <div class="d-flex flex-column gap-2 text-start">
                         <a class="h5 custom-text">BE FAMILY</a>
                         <a href="../shop.php" class="h6 mb-2">Merch</a>
