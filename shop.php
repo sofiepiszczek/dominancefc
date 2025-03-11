@@ -38,48 +38,48 @@ include ("includes/navbar.php");
         <div class="pb-5">
             <p class="h1 text-primary py-5 custom-text">MERCH</p>
             <p class="h4 text-white mb-0 custom-text">DRESS WITH</p>
-            <p class="h1 text-white custom-text">DOMINANCE!</p>
+            <p class="h2 text-white custom-text">DOMINANCE!</p>
         </div>
 
-        <div class="pb-5">
-            <img src="" alt="Billede af trøje">
-            <p class="h6 text-white custom-text">UNISEX BLACK DFC CAGE T-SHIRT</p>
-            <p class="h6 text-white custom-text">€30</p>
+        <div class="col-md-5 pb-5">
+            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK DFC CAGE T-SHIRT</p>
+            <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
-        <div class="pb-5">
-            <img src="" alt="Billede af trøje">
-            <p class="h6 text-white custom-text">UNISEX BLACK CAGED DOMINANCE T-SHIRT</p>
-            <p class="h6 text-white custom-text">€30</p>
+        <div class="col-md-5 pb-5">
+            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK CAGED DOMINANCE T-SHIRT</p>
+            <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
-        <div class="pb-5">
-            <img src="" alt="Billede af trøje">
-            <p class="h6 text-white custom-text">UNISEX BLACK AD BATTLE T-SHIRT</p>
-            <p class="h6 text-white custom-text">€30</p>
+        <div class="col-md-5 pb-5">
+            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK AD BATTLE T-SHIRT</p>
+            <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
-        <div class="pb-5">
-            <img src="" alt="Billede af trøje">
-            <p class="h6 text-white custom-text">UNISEX BLACK AD LOGO T-SHIRT</p>
-            <p class="h6 text-white custom-text">€30</p>
+        <div class="col-md-5 pb-5">
+            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK AD LOGO T-SHIRT</p>
+            <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
-        <div class="pb-5">
-            <img src="" alt="Billede af cap">
-            <p class="h6 text-white custom-text">UNISEX BLACK DFC BODY CAP</p>
-            <p class="h6 text-white custom-text">€25</p>
+        <div class="col-md-5 pb-5">
+            <img src="images/about1.jpg" class="w-75" alt="Billede af cap">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK DFC BODY CAP</p>
+            <p class="h6 text-white custom-text my-3">€25</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
-        <div class="pb-5">
-            <img src="" alt="Billede af trøje">
-            <p class="h6 text-white custom-text">UNISEX BLACK DFC BODY T-SHIRT</p>
-            <p class="h6 text-white custom-text">€30</p>
+        <div class="col-md-5 pb-5">
+            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK DFC BODY T-SHIRT</p>
+            <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
