@@ -14,7 +14,6 @@
             <a class="h5 custom-text">DISCOVER</a>
             <a href="../behindTheScenes.php" class="h6">Behind The Scenes</a>
             <a href="../previousEvents.php" class="h6">Previous Events</a>
-            <a href="../shop.php" class="h6">Merch</a>
             <a href="../podcast.php" class="h6">Podcast</a>
             <a href="../about.php" class="h6">About</a>
             <a href="#" class="h6">Cookie Policy (EU)</a>
@@ -23,6 +22,7 @@
             <br>
 
             <a class="h5 custom-text">BE FAMILY</a>
+            <a href="../shop.php" class="h6">Merch</a>
             <a href="../contact.php" class="h6">Contact</a>
             <a href="../fighterSignup.php" class="h6">Fighter Signup</a>
             <a href="../sponsorInfo.php" class="h6">Sponsor Info</a>
