@@ -101,6 +101,10 @@ p,h1,h2{
 	filter: invert(34%) sepia(97%) saturate(1810%) hue-rotate(349deg) brightness(99%) contrast(102%);
 }
 
+.dropdown-item{
+	color: white;
+}
+
 
 /* Footer */
 
@@ -213,12 +217,4 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 
 }
 
-
-
-
-
-
-.dropdown-item{
-	color: white;
-}
 
