@@ -135,10 +135,22 @@ p,h1,h2{
 }
 
 
-/* Placeholder-farve til formular - contact & fighter signup */
+/* Placeholder-farve og skriftstørrelse til formular - contact & fighter signup */
 
 .placeholder-gray::placeholder {
 	color: #999EA6;
+	font-size: 14px;
+}
+
+select.custom-placeholder {
+	color: #999EA6 !important;
+	font-size: 14px;
+}
+
+/* Fjerner standard styling på iOS (kalenderen */
+input[type="date"].custom-placeholder::-webkit-datetime-edit {
+	color: #999EA6;
+	font-size: 14px;
 }
 
 
@@ -157,5 +169,6 @@ p,h1,h2{
 	border-bottom: 1px solid white;
 	border-radius: 0;
 }
+
 
 
