@@ -10,7 +10,7 @@ require "settings/init.php";
 <head>
     <meta charset="utf-8">
 
-    <title>Previous Events</title>
+    <title>Previous Fights</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -37,7 +37,7 @@ include ("includes/navbar.php");
     <div class="row text-center justify-content-center align-items-center">
 
         <div class="">
-            <p class="h1 text-primary py-5 custom-text">PREVIOUS <br> EVENTS</p>
+            <p class="h1 text-primary py-5 custom-text">PREVIOUS <br> FIGHTS</p>
         </div>
 
 
@@ -64,10 +64,6 @@ include ("includes/navbar.php");
 
     </div>
 </div>
-
-
-
-
 
 
 

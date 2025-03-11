@@ -18,7 +18,7 @@
                     <div class="d-flex flex-column gap-2 text-start">
                         <a class="h5 custom-text">DISCOVER</a>
                         <a href="../behindTheScenes.php" class="h6 mb-2">Behind The Scenes</a>
-                        <a href="../previousEvents.php" class="h6 mb-2">Previous Events</a>
+                        <a href="../previousEvents.php" class="h6 mb-2">Previous Fights</a>
                         <a href="../podcast.php" class="h6 mb-2">Podcast</a>
                         <a href="../about.php" class="h6 mb-2">About</a>
                         <a href="#" class="h6 mb-2">Cookie Policy (EU)</a>
