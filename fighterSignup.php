@@ -26,7 +26,9 @@ require "settings/init.php";
 </head>
 
 <body>
-
+<?php
+include ("includes/navbar.php");
+?>
 
 <div class="container">
     <div class="row justify-content-center align-items-center">
