@@ -41,13 +41,13 @@ include ("includes/navbar.php");
         </div>
 
 
-        <div class="col-12 col-md-9 col-lg-6 p-4 pb-5">
+        <div class="col-12 col-md-10 col-lg-6 p-4 pb-5">
             <p class="h6 text-white text-start ps-4 custom-text">FIGHTS FROM DFC 2.O</p>
             <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/E2Kc_AKUBk0?si=LZsiCSIhCpzc9XIR" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/E2Kc_AKUBk0?si=LZsiCSIhCpzc9XIR" class="p-lg-3 p-md-1 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/7792kUMUu7Y?si=xWpejm-oZhd7Jd-s" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/7792kUMUu7Y?si=xWpejm-oZhd7Jd-s" class="p-lg-3 p-md-1 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
@@ -55,13 +55,13 @@ include ("includes/navbar.php");
             <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</button>
         </div>
 
-        <div class="col-12 col-md-9 col-lg-6 p-4 pb-5">
+        <div class="col-12 col-md-10 col-lg-6 p-4 pb-5">
             <p class="h6 text-white text-start ps-4 custom-text">FIGHTS FROM DFC 1.0</p>
             <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/Suqe9wlgYu0?si=kXIs3FfQcHCsHZ7p" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/Suqe9wlgYu0?si=kXIs3FfQcHCsHZ7p" class="p-lg-3 p-md-1 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TB5FMDcF1K-LeJfe" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        </div>
+            <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TB5FMDcF1K-LeJfe" class="p-lg-3 p-md-1 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        </div>
         </div>
         <div class="mb-5">
             <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</button>
