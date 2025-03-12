@@ -119,10 +119,10 @@ p,h1,h2{
 }
 
 .hero-section {
-	background-image: url('../images/ppv.jpg'); /* Sti til dit billede */
-	background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
-	background-position: center; /* Centrerer billedet */
-	height: 500px; /* Justér efter behov */
+	background-image: url('../images/ppv.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 500px;
 }
 
 .eventbaggrund{
@@ -215,6 +215,13 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 		background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
 		background-position: center; /* Centrerer billedet */
 		height: 1800px; /* Justér efter behov */
+	}
+
+	.hero-section {
+		background-image: url('../images/ppv.jpg');
+		background-size: cover;
+		background-position: center;
+		height: 800px;
 	}
 }
 

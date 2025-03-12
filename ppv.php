@@ -25,24 +25,29 @@ include ("includes/navbar.php");
 
 <div class="container-fluid">
     <div class="row">
-        <div class="hero-section d-flex flex-column align-items-center justify-content-center text-white custom-text py-1">
-            <h2 class="py-5 fs-1 text-center mt-5 text-white">WATCH DFC ONLINE AT PLUTO TV</h2>
-            <a class="btn bg-primary text-white fs-3" href="">WATCH DFC 3.0 HERE</a>
+        <div class="hero-section d-flex flex-column align-items-center justify-content-center text-white custom-text">
+            <div class="col-md-6 text-center">
+            <p class="py-5 mt-3 h1 text-white">WATCH ADFC ONLINE AT PLUTO TV</p>
+            </div>
+
+            <div class="col-md-3 text-center">
+            <a class="btn bg-primary rounded-2 text-white w-75 py-1 px-4" href="">WATCH ADFC 3.0 HERE</a>
+            </div>
         </div>
     </div>
 </div>
 <div class="container pb-5">
     <div class="row">
         <div class="col-12 d-inline-flex justify-content-center">
-            <div class="col-7 py-5 my-5">
+            <div class="col-7 col-md-3 py-5 my-3 text-center">
                 <img src="images/Plutopng.png" class="img-fluid" alt="Pluto Logo">
             </div>
         </div>
         <div class="col-12 text-center text-white custom-text mb-4">
-            <h2 class="fs-1">DISCOVER<br><span class="fs-3">MORE FROM</span><br> DOMINANCE</h2>
+            <h2 class="fs-1">DISCOVER<br><span class="fs-5">MORE FROM</span><br> DOMINANCE</h2>
         </div>
-        <div class="col-12 text-center">
-            <a href="" class="btn bg-primary text-white custom-text py-2">CLICK HERE!</a>
+        <div class="col-12 text-center mt-3">
+            <a href="" class="btn bg-primary rounded-2 text-white custom-text py-2">CLICK HERE</a>
         </div>
     </div>
 </div>
