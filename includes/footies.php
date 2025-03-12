@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container-fluid reveal">
     <div class="orange-line bg-primary w-75 mx-auto mt-5"></div>
 
     <div class="row text-white p-5 mt-3 justify-content-center px-lg-5">
