@@ -46,7 +46,7 @@ include ("includes/navbar.php");
             <div class="nextEvent col-10 col-md-8 col-lg-5 card shadow-lg rounded-0 bg-secondary my-4 me-lg-4 reveal">
                 <h2 class="pt-3 pt-md-4 fs-1">NEXT EVENT</h2>
                 <p class="pb-1 fs-4 text-primary">26/04/2025</p>
-                <p id="nextEventCountdown" class="fs-4 text-primary"></p>
+                <p id="nextEventCountdown" class="fs-4 text-white"></p>
                 <div class="p-3 px-md-5 pb-md-5">
                     <a href="events.php"><img src="images/nextevent2.png" class="img-fluid" alt="event billede"></a>
                 </div>
@@ -54,7 +54,7 @@ include ("includes/navbar.php");
             <div class="nextAcademy col-10 col-md-8 col-lg-5 card shadow-lg rounded-0 bg-secondary my-4 ms-lg-4 reveal">
                 <h2 class="pt-3 pt-md-4 fs-1">NEXT ACADEMY</h2>
                 <p class="pb-1 fs-4 text-primary">09/08/2025</p>
-                <p id="nextAcademyCountdown" class="fs-4 text-primary"></p>
+                <p id="nextAcademyCountdown" class="fs-4 text-white"></p>
                 <div class="p-3 px-md-5 pb-md-5">
                     <a href="events.php"><img src="images/nextacademy2.png" class="img-fluid" alt="academy billede"></a>
                 </div>
@@ -75,10 +75,12 @@ include ("includes/navbar.php");
                 <a href="behindTheScenes.php"><h2 class="custom-text text-white text-center py-3 herotext">DISCOVER MORE</h2></a>
             </div>
 
-            <div class="col-12 text-center ratio ratio-16x9">
+            <div class="col-12 col-md-6 text-center">
+                <div class="ratio ratio-16x9">
                 <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw" class="p-5" title="YouTube video player"
                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
             </div>
 
             <div class="col-12 text-center py-5">
