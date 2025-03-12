@@ -88,8 +88,6 @@ include ("includes/navbar.php");
 </div>
 
 
-
-
 <?php
 include ("includes/footies.php");
 ?>
