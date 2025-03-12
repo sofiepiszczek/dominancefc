@@ -67,7 +67,7 @@ include ("includes/navbar.php");
                 <p class="py-2 fs-4 text-primary">MMA in K.B. Hallen, Copenhagen</p>
                 <p class=" fs-6 text-white text-start">20/12/2025</p>
                 <div class="reveal d-inline-flex justify-content-center align-items-center">
-                    <div class=reveal "col-7 text-center pb-3">
+                    <div class="reveal col-7 text-center pb-3">
                         <a href="" class="btn bg-primary text-white">BUY TICKETS</a>
                     </div>
                 </div>

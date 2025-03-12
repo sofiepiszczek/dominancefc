@@ -41,7 +41,7 @@ include ("includes/navbar.php");
         </div>
 
         <div class="col-12 pb-5">
-            <p class="px-4 text-white h5 fw-bold custom-text">Take a look behind the scenes from previous events!</p>
+            <p class="px-4 text-white h5 fw-bold">Take a look behind the scenes from previous events!</p>
         </div>
 
         <div class="col-12 col-md-6 px-4 pb-5 reveal">

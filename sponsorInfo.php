@@ -48,7 +48,7 @@ include ("includes/navbar.php");
             <p class="h4 text-white pt-4 custom-text px-3">BENEFITS OF BEING AN AIRTOX DOMINANCE FC SPONSOR</p>
         </div>
 
-        <div class="row justify-content-center">
+        <div class="reveal row justify-content-center">
             <div class="col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons1.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
@@ -56,21 +56,21 @@ include ("includes/navbar.php");
                 </div>
             </div>
 
-            <div class="col-md-5 col-lg-3 mt-5">
+            <div class="reveal col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons2.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
                     <p><span class="text-primary h5 custom-text">Network with Leaders</span> <br><br> Access to the “Dominance Fight Club”, where you can network with entrepreneurs, business leaders, and MMA enthusiasts.</p>
                 </div>
             </div>
 
-            <div class="col-md-5 col-lg-3 mt-5">
+            <div class="reveal col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons3.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
                     <p><span class="text-primary h5 custom-text">Exclusive Events</span> <br><br> Invitations to exclusive events and opportunities to meet fighters and other key figures in the MMA world.</p>
                 </div>
             </div>
 
-            <div class="col-md-5 col-lg-3 mt-5">
+            <div class="reveal col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons4.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
                     <p><span class="text-primary h5 custom-text">Brand Association</span> <br><br> Associate your brand with a dynamic and rapidly growing sport, showcasing your support for the MMA community and professional athletes.</p>

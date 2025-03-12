@@ -67,7 +67,7 @@ include ("includes/navbar.php");
                 <div class="position-absolute top-50 start-50 translate-middle pb-5 reveal">
                     <p class="bannertext custom-text text-white text-center">WATCH LIVE</p>
                 </div>
-                <div class="position-absolute top-50 start-50 translate-middle pb-5 reveal">
+                <div class="reveal position-absolute top-50 start-50 translate-middle pb-5">
                     <img src="images/Plutopng.png" class="img-fluid object-fit-cover h-100 w-100 pluto" >
                 </div>
             </a>
