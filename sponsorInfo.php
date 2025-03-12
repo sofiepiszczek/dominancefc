@@ -38,9 +38,11 @@ include ("includes/navbar.php");
             <p class="h1 text-primary py-5 custom-text">SPONSOR <br> INFO</p>
         </div>
 
-        <div class="pb-5">
-            <iframe width="300" height="168" src="https://www.youtube.com/embed/JoAs6WG4W-I?si=FVweBJdgs8webumR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="col-md-6 px-5 pb-5">
+        <div class="ratio ratio-16x9">
+            <iframe src="https://www.youtube.com/embed/JoAs6WG4W-I?si=FVweBJdgs8webumR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
+    </div>
 
         <div class="col-md-12">
             <p class="h4 text-white pt-4 custom-text px-3">BENEFITS OF BEING AN AIRTOX DOMINANCE FC SPONSOR</p>
@@ -76,11 +78,11 @@ include ("includes/navbar.php");
             </div>
         </div>
 
-        <div class="my-5">
+        <div class="reveal my-5">
             <p class="h1 text-white custom-text">BE OUR <br> CORNERMAN</p>
         </div>
 
-        <div class="mb-5">
+        <div class="reveal mb-5">
             <button class="btn btn-primary rounded-2 px-4 py-2 text-white custom-text">CONTACT US</button>
         </div>
 
