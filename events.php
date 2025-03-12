@@ -33,8 +33,8 @@ include ("includes/navbar.php");
             </div>
 
             <div class="col-10 col-md-6 col-lg-5 py-md-3 card shadow-lg rounded-0 bg-secondary my-4 my-lg-5 px-3 ps-lg-4">
-                    <h2 class="pt-3 pt-lg-4 fs-2 text-white">DOMINANCE FC 3.0</h2>
-                    <p class="py-2 pt-lg-3 fs-3 text-primary">MMA at KB Hallen, Copenhagen</p>
+                    <h2 class="pt-3 pt-lg-4 fs-2 text-white">AIRTOX DOMINANCE FC 3.0</h2>
+                    <p class="py-2 pt-lg-3 fs-3 text-primary">MMA in K.B. Hallen, Copenhagen</p>
                 <p class=" fs-6 text-white text-start">26/04/2025</p>
                 <div class="d-inline-flex justify-content-center align-items-center">
                 <div class="col-9 col-md-7 text-center pb-3 pt-lg-4">
@@ -50,8 +50,8 @@ include ("includes/navbar.php");
 
         <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
             <div class="col-10 col-lg-9 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
-                <h2 class="pt-3 fs-3 text-white">DOMINANCE FC 4.0</h2>
-                <p class="py-2 fs-4 text-primary">MMA at KB Hallen, Copenhagen</p>
+                <h2 class="pt-3 fs-3 text-white">AIRTOX DOMINANCE FC 4.0</h2>
+                <p class="py-2 fs-4 text-primary">MMA in K.B. Hallen, Copenhagen</p>
                 <p class=" fs-6 text-white text-start">20/09/2025</p>
                 <div class="d-inline-flex justify-content-center align-items-center">
                     <div class="col-7 text-center pb-3">
@@ -63,8 +63,8 @@ include ("includes/navbar.php");
 
         <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
             <div class="col-10 col-lg-9 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
-                <h2 class="pt-3 fs-3 text-white">DOMINANCE FC 5.0</h2>
-                <p class="py-2 fs-4 text-primary">MMA at KB Hallen, Copenhagen</p>
+                <h2 class="pt-3 fs-3 text-white">AIRTOX DOMINANCE FC 5.0</h2>
+                <p class="py-2 fs-4 text-primary">MMA in K.B. Hallen, Copenhagen</p>
                 <p class=" fs-6 text-white text-start">20/12/2025</p>
                 <div class="d-inline-flex justify-content-center align-items-center">
                     <div class="col-7 text-center pb-3">
@@ -76,8 +76,8 @@ include ("includes/navbar.php");
 
         <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
             <div class="col-10 col-lg-9 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
-                <h2 class="pt-3 fs-3 text-white">DOMINANCE FC 6.0</h2>
-                <p class="py-2 fs-4 text-primary">MMA at KB Hallen, Copenhagen</p>
+                <h2 class="pt-3 fs-3 text-white">AIRTOX DOMINANCE FC 6.0</h2>
+                <p class="py-2 fs-4 text-primary">MMA in K.B. Hallen, Copenhagen</p>
                 <p class=" fs-6 text-white text-start">20/03/2026</p>
                 <div class="d-inline-flex justify-content-center align-items-center">
                     <div class="col-7 text-center pb-3">
@@ -89,9 +89,9 @@ include ("includes/navbar.php");
 
         <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
             <div class="col-10 col-lg-9 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
-                <h2 class="pt-3 fs-3 text-white">DOMINANCE FC 7.0</h2>
-                <p class="py-2 fs-4 text-primary">MMA at KB Hallen, Copenhagen</p>
-                <p class=" fs-6 text-white text-start">03/04/2026</p>
+                <h2 class="pt-3 fs-3 text-white">AIRTOX DOMINANCE FC 7.0</h2>
+                <p class="py-2 fs-4 text-primary">MMA in K.B. Hallen, Copenhagen</p>
+                <p class=" fs-6 text-white text-start">20/06/2026</p>
                 <div class="d-inline-flex justify-content-center align-items-center">
                     <div class="col-7 text-center pb-3">
                         <a href="" class="btn bg-primary text-white">BUY TICKETS</a>

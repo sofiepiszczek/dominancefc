@@ -42,12 +42,12 @@ include ("includes/navbar.php");
         </div>
         <div class="col-md-5 text-start p-5">
             <p class="h5 text-primary custom-text mb-3">WHAT IS AIRTOX DOMINANCE FC?</p>
-            <p class="h6 text-uppercase lh-lg">Airtox Dominance FC, short for <span class="text-primary">Airtox Dominance Fighting Championship</span>, was established by three-time Olympian and UFC veteran <span class="text-primary">Mark O. Madsen</span>. Dominance FC’s vision is to establish Europe’s <span class="text-primary">premier fight promotion</span>, hosting multiple DFC events annually. Dominance FC is dedicated to advancing the sport of MMA in Europe, <span class="text-primary">creating exceptional experiences</span> for fighters and fans alike.</p>
+            <p class="h6 text-uppercase lh-lg">Airtox Dominance FC, short for <span class="text-primary">Airtox Dominance Fighting Championship</span>, was established by three-time Olympian and UFC veteran <span class="text-primary">Mark O. Madsen</span>. Airtox Dominance FC’s vision is to establish Europe’s <span class="text-primary">premier fight promotion</span>, hosting multiple ADFC events annually. Airtox Dominance FC is dedicated to advancing the sport of MMA in Europe, <span class="text-primary">creating exceptional experiences</span> for fighters and fans alike.</p>
         </div>
 
         <div class="col-md-5 text-start p-5 order-2 order-md-1">
             <p class="h5 text-primary custom-text mb-3">WHY AIRTOX DOMINANCE FC?</p>
-            <p class="h6 text-uppercase lh-lg">MMA, or Mixed Martial Arts, is the <span class="text-primary">world’s fastest-growing sport</span>, and we see <span class="text-primary">enormous potential</span> in the European MMA scene. Dominance FC aims to create a platform that matches this growth, promotes the sport in Europe, and provides <span class="text-primary">European talents</span> with an international stage to develop their potential and build their brand.</p>
+            <p class="h6 text-uppercase lh-lg">MMA, or Mixed Martial Arts, is the <span class="text-primary">world’s fastest-growing sport</span>, and we see <span class="text-primary">enormous potential</span> in the European MMA scene. Airtox Dominance FC aims to create a platform that matches this growth, promotes the sport in Europe, and provides <span class="text-primary">European talents</span> with an international stage to develop their potential and build their brand.</p>
         </div>
         <div class="col-md-5 px-4 order-1 order-md-2">
             <img src="images/about2.jpg" class="img-fluid mb-4" alt="Billede af ringen">

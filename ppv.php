@@ -26,8 +26,8 @@ include ("includes/navbar.php");
 <div class="container-fluid">
     <div class="row">
         <div class="hero-section d-flex flex-column align-items-center justify-content-center text-white custom-text py-1">
-            <h2 class="py-5 fs-1 text-center mt-5 text-white">WATCH DFC ONLINE AT PLUTO TV</h2>
-            <a class="btn bg-primary text-white fs-3" href="">WATCH DFC 3.0 HERE</a>
+            <h2 class="py-5 fs-1 text-center mt-5 text-white">WATCH ADFC ONLINE AT PLUTO TV</h2>
+            <a class="btn bg-primary text-white fs-3" href="">WATCH ADFC 3.0 HERE</a>
         </div>
     </div>
 </div>
@@ -42,7 +42,7 @@ include ("includes/navbar.php");
             <h2 class="fs-1">DISCOVER<br><span class="fs-3">MORE FROM</span><br> DOMINANCE</h2>
         </div>
         <div class="col-12 text-center">
-            <a href="" class="btn bg-primary text-white custom-text py-2">CLICK HERE!</a>
+            <a href="" class="btn bg-primary text-white custom-text py-2">CLICK HERE</a>
         </div>
     </div>
 </div>
