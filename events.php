@@ -22,14 +22,14 @@
 include ("includes/navbar.php");
 ?>
 
-<h1 class="custom-text text-primary text-center py-5 py-lg-5 my-lg-5">EVENTS</h1>
+<h1 class="custom-text text-primary text-center py-5">EVENTS</h1>
 
 <div class="container-fluid eventbaggrund w-100 pb-lg-4">
     <div class="row">
 
         <div class="col-12 d-inline-flex flex-wrap justify-content-center align-items-center bg-primary bg-opacity-25 text-start custom-text py-5">
             <div class="col-12">
-                <h2 class="text-center">NEXT EVENT</h2>
+                <h2 class="text-center mb-3 my-lg-3">NEXT EVENT</h2>
             </div>
 
             <div class="col-10 col-md-6 col-lg-5 py-md-3 card shadow-lg rounded-0 bg-secondary my-4 my-lg-5 px-3 ps-lg-4">
@@ -44,11 +44,11 @@ include ("includes/navbar.php");
             </div>
         </div>
 
-        <div class="col-12 custom-text text-center pt-5 mt-lg-5 my-lg-5">
+        <div class="col-12 custom-text text-center mt-5">
             <h2>UPCOMING EVENTS</h2>
         </div>
 
-        <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text py-5">
+        <div class="col-12 col-md-6 d-inline-flex flex-wrap justify-content-center align-items-center text-start custom-text pt-3 pb-5">
             <div class="col-10 col-lg-9 card shadow-lg rounded-0 bg-secondary my-4 px-3 p-lg-4">
                 <h2 class="pt-3 fs-3 text-white">AIRTOX DOMINANCE FC 4.0</h2>
                 <p class="py-2 fs-4 text-primary">MMA in K.B. Hallen, Copenhagen</p>
