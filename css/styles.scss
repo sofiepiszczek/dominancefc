@@ -41,6 +41,22 @@ p,h1,h2{
 .custom-text {
 	font-family: 'DFCfont', sans-serif;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Anton&family=Anton+SC&family=Barlow:ital,wght@0,700;0,800;0,900;1,700;1,800&family=Homemade+Apple&family=Merriweather&display=swap');
+
+p{
+	font-family: "Barlow", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.familySmallText{
+	font-size: 0.7rem;
+}
+
+.submitBtn{
+	width: 270px;
+}
 .bannertext{
 	font-size: 3rem;
 	padding-bottom: 380px;
@@ -226,6 +242,13 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 		background-size: cover;
 		background-position: center;
 		height: 800px;
+	}
+	.submitBtn{
+		width: 110px;
+		font-size: 0.6rem;
+	}
+	.familySmallText{
+		font-size: 1.5rem;
 	}
 }
 

@@ -52,14 +52,14 @@ include ("includes/navbar.php");
             <div class="col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons1.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
-                    <p><span class="text-primary h5 custom-text">Gain Visibility</span> <br><br> Your business will be prominently featured at our MMA shows, on our social media platforms, and in our marketing materials.</p>
+                    <p><span class="text-primary h5 custom-text">Gain <br> Visibility</span> <br><br> Your business will be prominently featured at our MMA shows, on our social media platforms, and in our marketing materials.</p>
                 </div>
             </div>
 
             <div class="reveal col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons2.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
-                    <p><span class="text-primary h5 custom-text">Network with Leaders</span> <br><br> Access to the “Dominance Fight Club”, where you can network with entrepreneurs, business leaders, and MMA enthusiasts.</p>
+                    <p><span class="text-primary h6 custom-text">Network with Leaders</span> <br><br> Access to the “Dominance Fight Club”, where you can network with entrepreneurs, business leaders, and MMA enthusiasts.</p>
                 </div>
             </div>
 
