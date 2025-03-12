@@ -76,11 +76,11 @@ include ("includes/navbar.php");
             </div>
         </div>
 
-        <div class="my-5">
+        <div class="reveal my-5">
             <p class="h1 text-white custom-text">BE OUR <br> CORNERMAN</p>
         </div>
 
-        <div class="mb-5">
+        <div class="reveal mb-5">
             <button class="btn btn-primary rounded-2 px-4 py-2 text-white custom-text">CONTACT US</button>
         </div>
 
