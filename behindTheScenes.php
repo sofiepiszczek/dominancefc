@@ -40,10 +40,9 @@ include ("includes/navbar.php");
             <h1 class="text-primary custom-text py-5">BEHIND <br> <span class="fs-3">THE</span> <br> SCENES</h1>
         </div>
 
-        <div class="col-8 text-white fs-5 pb-4">
-            Her kan du se behind the scenes fra tidligere events:
+        <div class="col-12 pb-5">
+            <p class="px-4 text-white h5 fw-bold custom-text">Take a look behind the scenes from previous events!</p>
         </div>
-
 
         <div class="col-12 col-md-6 px-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">BTS DFC 1.0</p>
