@@ -38,9 +38,11 @@ include ("includes/navbar.php");
             <p class="h1 text-primary py-5 custom-text">SPONSOR <br> INFO</p>
         </div>
 
-        <div class="pb-5">
-            <iframe width="300" height="168" src="https://www.youtube.com/embed/JoAs6WG4W-I?si=FVweBJdgs8webumR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="col-md-6 px-5 pb-5">
+        <div class="pb-5 ratio ratio-16x9">
+            <iframe src="https://www.youtube.com/embed/JoAs6WG4W-I?si=FVweBJdgs8webumR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
+    </div>
 
         <div class="col-md-12">
             <p class="h4 text-white pt-4 custom-text px-3">BENEFITS OF BEING AN AIRTOX DOMINANCE FC SPONSOR</p>
