@@ -45,42 +45,42 @@ include ("includes/navbar.php");
         </div>
 
 
-        <div class="col-12 col-md-6 px-4 pb-5">
+        <div class="col-12 col-md-6 px-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">BTS DFC 1.0</p>
             <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=tABE9XS9vuJLghLj" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
-        <div class="col-12 col-md-6 p-4 pb-5">
+        <div class="col-12 col-md-6 p-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">BTS DFC 2.0</p>
             <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TeE1IX3xrFd4qMJv" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
-        <div class="col-12 col-md-6 p-4 pb-5">
+        <div class="col-12 col-md-6 p-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">BTS DFC 3.0</p>
             <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=tABE9XS9vuJLghLj" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
-        <div class="col-12 col-md-6 p-4 pb-5">
+        <div class="col-12 col-md-6 p-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">BTS DFC 4.0</p>
             <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TeE1IX3xrFd4qMJv" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
-        <div class="col-12 col-md-6 p-4 pb-5">
+        <div class="col-12 col-md-6 p-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">BTS DFC 5.0</p>
             <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=tABE9XS9vuJLghLj" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
-        <div class="col-12 col-md-6 p-4 pb-5">
+        <div class="col-12 col-md-6 p-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">BTS DFC 6.0</p>
             <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TeE1IX3xrFd4qMJv" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -88,7 +88,7 @@ include ("includes/navbar.php");
         </div>
 
 
-<div class="mb-5">
+<div class="mb-5 reveal">
     <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</button>
 </div>
 
