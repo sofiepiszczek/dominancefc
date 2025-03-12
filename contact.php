@@ -65,7 +65,7 @@ include ("includes/navbar.php");
             <textarea class="form-control bg-white custom-text text-secondary placeholder-gray" rows="5" placeholder="INSERT MESSAGE HERE"></textarea>
         </div>
 
-        <div class="mt-5 mb-5 text-center">
+        <div class="reveal mt-5 mb-5 text-center">
             <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">SUBMIT</button>
         </div>
     </div>
