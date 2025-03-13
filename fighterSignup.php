@@ -27,7 +27,7 @@ require "settings/init.php";
 
 <body>
 <?php
-include ("includes/navbar.php");
+include("includes/navbar.php");
 ?>
 
 <div class="container">
@@ -45,14 +45,15 @@ include ("includes/navbar.php");
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT FULL NAME HERE">
         </div>
 
-        <div class="col-md-5 px-4 mt-5">
-            <label class="form-label text-white custom-text fs-6 text-start">EXPERIENCE:</label>
-            <select class="form-select bg-white custom-text text-secondary placeholder-gray py-3 custom-placeholder" aria-label="Select your experience">
-                <option selected>SELECT YOUR EXPERIENCE</option>
-                <option value="1">PROFESSIONAL</option>
-                <option value="2">AMATEUR</option>
-            </select>
-        </div>
+            <div class="col-md-5 px-4 mt-5">
+                <label class="form-label text-white custom-text fs-6 text-start">EXPERIENCE:</label>
+                <select class="form-select bg-white custom-text text-secondary placeholder-gray py-3 custom-placeholder"
+                        aria-label="Select your experience">
+                    <option selected>SELECT YOUR EXPERIENCE</option>
+                    <option value="1">PROFESSIONAL</option>
+                    <option value="2">AMATEUR</option>
+                </select>
+            </div>
 
         <div class="col-md-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">DATE OF BIRTH:</label>
@@ -133,9 +134,8 @@ include ("includes/navbar.php");
 </div>
 
 
-
 <?php
-include ("includes/footies.php");
+include("includes/footies.php");
 ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/scripts.js"></script>

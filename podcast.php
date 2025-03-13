@@ -27,10 +27,8 @@ require "settings/init.php";
 
 <body>
 <?php
-include ("includes/navbar.php");
+include("includes/navbar.php");
 ?>
-
-
 
 
 <div class="container">
@@ -47,14 +45,20 @@ include ("includes/navbar.php");
         <div class="col-12 col-md-6 px-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">DFC PODCAST EP. 2</p>
             <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/ikyIMVTR-eA?si=RvKKVmGCMG921KoP" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/ikyIMVTR-eA?si=RvKKVmGCMG921KoP" class="p-lg-3 p-md-2 p-1"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
         <div class="col-12 col-md-6 p-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">DFC PODCAST EP. 1</p>
             <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/wBDbDAHl9io?si=Qom3FApCE5YfRFOr" class="p-lg-3 p-md-2 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/wBDbDAHl9io?si=Qom3FApCE5YfRFOr" class="p-lg-3 p-md-2 p-1"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
 
@@ -67,14 +71,8 @@ include ("includes/navbar.php");
 </div>
 
 
-
-
-
-
-
-
 <?php
-include ("includes/footies.php");
+include("includes/footies.php");
 ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/scripts.js"></script>

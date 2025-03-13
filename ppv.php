@@ -18,7 +18,7 @@
 
 <body>
 <?php
-include ("includes/navbar.php");
+include("includes/navbar.php");
 ?>
 
 <h1 class="custom-text text-primary text-center py-5">PAYPERVIEW</h1>
@@ -27,11 +27,12 @@ include ("includes/navbar.php");
     <div class="row">
         <div class="hero-section d-flex flex-column align-items-center justify-content-center text-white custom-text">
             <div class="col-md-7 text-center">
-            <h2 class="reveal py-5 mt-3 fs-1 text-white">WATCH ADFC <br> ONLINE AT PLUTO TV</h2>
+                <h2 class="reveal py-5 mt-3 fs-1 text-white">WATCH ADFC <br> ONLINE AT PLUTO TV</h2>
             </div>
 
             <div class="reveal col-md-6 text-center">
-            <a class="btn bg-primary rounded-2 text-white w-75 py-2 py-md-3 fs-5 px-4" href="">WATCH ADFC 3.0 HERE</a>
+                <a class="btn bg-primary rounded-2 text-white w-75 py-2 py-md-3 fs-5 px-4" href="">WATCH ADFC 3.0
+                    HERE</a>
             </div>
         </div>
     </div>
@@ -52,7 +53,7 @@ include ("includes/navbar.php");
     </div>
 </div>
 <?php
-include ("includes/footies.php");
+include("includes/footies.php");
 ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/scripts.js"></script>

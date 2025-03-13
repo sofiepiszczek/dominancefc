@@ -19,7 +19,7 @@
 
 <body>
 <?php
-include ("includes/navbar.php");
+include("includes/navbar.php");
 ?>
 
 <h1 class="custom-text text-primary text-center py-5 reveal">EVENTS</h1>
@@ -104,7 +104,7 @@ include ("includes/navbar.php");
 
 
 <?php
-include ("includes/footies.php");
+include("includes/footies.php");
 ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/scripts.js"></script>
