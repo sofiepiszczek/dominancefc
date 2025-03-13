@@ -96,10 +96,9 @@ include("includes/navbar.php");
                     </div>
                 </div>
 
-                    <div class="col-12 text-white text-center pt-5 reveal">
+                    <div class="col-12 text-white text-center py-5 reveal">
                         <h2 class="herotext pt-4 pb-2 custom-text">BE FAMILY!</h2>
-                        <p class="pb-2 pb-md-0 m-md-0 familySmallText text-uppercase custom-text text-primary">Stay in the loop
-                            get our newsletter</p>
+                        <p class="pb-2 pb-md-0 m-md-0 familySmallText text-uppercase custom-text text-primary">Stay in the loop - get our newsletter</p>
 
                         <form class="d-inline-flex justify-content-center flex-wrap mb-md-2">
                             <div class="col-12 mb-3  d-flex justify-content-center">
