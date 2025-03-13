@@ -27,12 +27,6 @@ window.onload = () => {
     startCountdown('2025-08-09T17:30:00', 'nextAcademyCountdown');
 };
 
-
-
-
-
-
-
 // Scroll-triggered animations
 function revealOnScroll() {
     const elements = document.querySelectorAll('.reveal');
