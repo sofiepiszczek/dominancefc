@@ -36,8 +36,8 @@ include("includes/navbar.php");
 <div class="container">
     <div class="row text-center justify-content-center align-items-center">
 
-        <div class="col-12">
-            <h1 class="text-primary custom-text py-5">BEHIND <br> <span class="fs-3">THE</span> <br> SCENES</h1>
+        <div class="col-6 col-md-4">
+            <h1 class="text-primary custom-text py-5">BEHIND <span class="fs-3">THE</span> SCENES</h1>
         </div>
 
         <div class="col-12 pb-5">
