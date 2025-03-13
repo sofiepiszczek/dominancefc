@@ -106,11 +106,11 @@ include("includes/navbar.php");
     <p class="pb-3 m-md-0 familySmallText text-uppercase custom-text text-primary">Stay in the loop - get our newsletter</p>
 
     <form class="d-inline-flex justify-content-center flex-wrap mb-md-2">
-        <div class="col-9 mb-3 d-md-none">
+        <div class="col-10 mb-3 d-md-none">
             <input type="email" class="form-control py-2 text-secondary custom-text placeholder-gray rounded-0 bg-white" id="exampleInputEmail1" placeholder="E-MAIL">
         </div>
-        <div class="col-12 pb-3 d-md-none">
-            <button type="submit" class="btn btn-primary text-white px-5 custom-text submitBtn">SUBSCRIBE</button>
+        <div class="col-10 pb-3 d-md-none">
+            <button type="submit" class="btn btn-primary text-white px-5 custom-text w-100">SUBSCRIBE</button>
         </div>
 
         <div class="col-md-9 d-none d-md-flex flex-nowrap pb-md-3">
@@ -118,7 +118,7 @@ include("includes/navbar.php");
             <button type="submit" class="btn btn-primary rounded-0 shadow-none text-white custom-text submitBtn">SUBSCRIBE</button>
         </div>
 
-        <div class="col-12 col-md-7 text-uppercase subscribeText policyText px-4">
+        <div class="col-10 col-md-9 text-uppercase subscribeText policyText">
             <p>By signing up for our newsletter, you accept our privacy policy and consent to receiving marketing and website tracking. You can withdraw your consent anytime.</p>
         </div>
     </form>
