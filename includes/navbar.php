@@ -1,7 +1,7 @@
 <script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
 <nav class="navbar navbar-expand-sm z-3 bg-secondary pt-4 d-sm-none">
     <div class="container-fluid">
-        <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 30px;"></a>
+        <a href="../index.php"><img src="images/DominanceLogoNAV.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <i class="fa-solid fa-bars text-primary"></i>
         </button>
@@ -72,7 +72,7 @@
 <!-- Top black bar with logo -->
 <nav class="navbar bg-secondary py-3 d-none d-sm-block z-3">
     <div class="container d-flex justify-content-center">
-        <a href="../index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 50px;"></a>
+        <a href="../index.php"><img src="images/DominanceLogoNAV.png" alt="Logo" style="height: 50px;"></a>
     </div>
 </nav>
 

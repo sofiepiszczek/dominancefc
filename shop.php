@@ -55,14 +55,14 @@ include("includes/navbar.php");
         </div>
 
         <div class="col-md-5 pb-5 reveal">
-            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <img src="images/logoOutlineTee.png" class="w-75" alt="Billede af trøje">
             <p class="h6 text-white custom-text mt-4">UNISEX BLACK AD LOGO T-SHIRT</p>
             <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
         <div class="col-md-5 pb-5 reveal">
-            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <img src="images/dOutlineTee.png" class="w-75" alt="Billede af trøje">
             <p class="h6 text-white custom-text mt-4">UNISEX BLACK AD OUTLINE T-SHIRT</p>
             <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
