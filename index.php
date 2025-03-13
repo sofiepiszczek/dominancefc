@@ -104,7 +104,7 @@ include("includes/navbar.php");
                             <div class="col-12 mb-3  d-flex justify-content-center">
                                 <div class="col-9 d-md-none">
                                     <input type="email"
-                                           class="form-control py-2 py-md-3 text-white custom-text placeholder-gray rounded-0 bg-white"
+                                           class="form-control py-2 py-md-3 text-secondary custom-text placeholder-gray rounded-0 bg-white"
                                            id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
                                 </div>
                             </div>
@@ -117,7 +117,7 @@ include("includes/navbar.php");
 
                             <div class="col-md-9 d-md-flex flex-md-nowrap d-none pb-md-3">
                                 <input type="email"
-                                       class="form-control py-2 py-md-3 text-white custom-text placeholder-gray rounded-0 bg-white"
+                                       class="form-control py-2 py-md-3 text-secondary custom-text placeholder-gray rounded-0 bg-white"
                                        id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
                                 <button type="submit"
                                         class="btn btn-primary rounded-0 shadow-none text-white custom-text submitBtn">
