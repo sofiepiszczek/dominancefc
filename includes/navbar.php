@@ -1,7 +1,7 @@
 <script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
 <nav class="navbar navbar-expand-sm z-3 bg-secondary pt-4 d-sm-none">
     <div class="container-fluid">
-        <a href="../index.php"><img src="images/DominanceLogoNAV.png" alt="Logo" style="height: 30px;"></a>
+        <a href="index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <i class="fa-solid fa-bars text-primary"></i>
         </button>
@@ -19,8 +19,8 @@
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center d-flex flex-column gap-3">
                             <a href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">TICKETS</a>
-                            <a href="../events.php">EVENTS</a>
-                            <a href="../ppv.php">PAYPERVIEW</a>
+                            <a href="events.php">EVENTS</a>
+                            <a href="ppv.php">PAYPERVIEW</a>
                         </div>
                     </div>
                 </div>
@@ -34,10 +34,10 @@
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center d-flex flex-column gap-3">
-                            <a href="../behindTheScenes.php">BEHIND THE SCENES</a>
-                            <a href="../previousEvents.php">PREVIOUS FIGHTS</a>
-                            <a href="../podcast.php">PODCAST</a>
-                            <a href="../about.php">ABOUT</a>
+                            <a href="behindTheScenes.php">BEHIND THE SCENES</a>
+                            <a href="previousEvents.php">PREVIOUS FIGHTS</a>
+                            <a href="podcast.php">PODCAST</a>
+                            <a href="about.php">ABOUT</a>
                         </div>
                     </div>
                 </div>
@@ -51,10 +51,10 @@
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                          data-bs-parent="#accordionExample">
                         <div class="accordion-body custom-text text-center d-flex flex-column gap-3">
-                            <a href="../shop.php">MERCH</a>
-                            <a href="../contact.php">CONTACT</a>
-                            <a href="../fighterSignup.php">FIGHTER SIGNUP</a>
-                            <a href="../sponsorInfo.php">SPONSOR INFO</a>
+                            <a href="shop.php">MERCH</a>
+                            <a href="contact.php">CONTACT</a>
+                            <a href="fighterSignup.php">FIGHTER SIGNUP</a>
+                            <a href="sponsorInfo.php">SPONSOR INFO</a>
                         </div>
                     </div>
                 </div>
@@ -72,7 +72,7 @@
 <!-- Top black bar with logo -->
 <nav class="navbar bg-secondary py-3 d-none d-sm-block z-3">
     <div class="container d-flex justify-content-center">
-        <a href="../index.php"><img src="images/DominanceLogoNAV.png" alt="Logo" style="height: 50px;"></a>
+        <a href="index.php"><img src="images/ADlogo.png" alt="Logo" style="height: 50px;"></a>
     </div>
 </nav>
 
@@ -80,7 +80,7 @@
 <nav class="navbar bg-primary d-none d-sm-block w-75 mx-auto z-3 p-0">
     <div class="container d-flex justify-content-center bg-primary">
         <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
-            <li class="nav-item custom-text"><a class="nav-link me-4" href="../index.php">Home</a></li>
+            <li class="nav-item custom-text"><a class="nav-link me-4" href="index.php">Home</a></li>
             <li class="nav-item nav-divider mt-2">｜</li>
             <!-- Experience Dropdown -->
             <li class="nav-item dropdown custom-text">
@@ -92,8 +92,8 @@
                     <li><a class="dropdown-item"
                            href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">Tickets</a>
                     </li>
-                    <li><a class="dropdown-item" href="../events.php">Events</a></li>
-                    <li><a class="dropdown-item" href="../ppv.php">Payperview</a></li>
+                    <li><a class="dropdown-item" href="events.php">Events</a></li>
+                    <li><a class="dropdown-item" href="ppv.php">Payperview</a></li>
                 </ul>
             </li>
             <li class="nav-item nav-divider mt-2">｜</li>
@@ -105,10 +105,10 @@
                     Discover
                 </a>
                 <ul class="dropdown-menu text-white " aria-labelledby="discoverDropdown">
-                    <li><a class="dropdown-item" href="../behindTheScenes.php">Behind the scenes</a></li>
-                    <li><a class="dropdown-item" href="../previousEvents.php">Previous fights</a></li>
-                    <li><a class="dropdown-item" href="../podcast.php">Podcast</a></li>
-                    <li><a class="dropdown-item" href="../about.php">About</a></li>
+                    <li><a class="dropdown-item" href="behindTheScenes.php">Behind the scenes</a></li>
+                    <li><a class="dropdown-item" href="previousEvents.php">Previous fights</a></li>
+                    <li><a class="dropdown-item" href="podcast.php">Podcast</a></li>
+                    <li><a class="dropdown-item" href="about.php">About</a></li>
                 </ul>
             </li>
             <li class="nav-item nav-divider mt-2">｜</li>
@@ -120,10 +120,10 @@
                     Be Family
                 </a>
                 <ul class="dropdown-menu text-white" aria-labelledby="beFamilyDropdown">
-                    <li><a class="dropdown-item" href="../shop.php">Merch</a></li>
-                    <li><a class="dropdown-item" href="../contact.php">Contact</a></li>
-                    <li><a class="dropdown-item" href="../fighterSignup.php">Fighter Signup</a></li>
-                    <li><a class="dropdown-item" href="../sponsorInfo.php">Sponsor Info</a></li>
+                    <li><a class="dropdown-item" href="shop.php">Merch</a></li>
+                    <li><a class="dropdown-item" href="contact.php">Contact</a></li>
+                    <li><a class="dropdown-item" href="fighterSignup.php">Fighter Signup</a></li>
+                    <li><a class="dropdown-item" href="sponsorInfo.php">Sponsor Info</a></li>
                 </ul>
             </li>
         </ul>

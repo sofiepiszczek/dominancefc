@@ -1,3 +1,10 @@
+<?php
+/**
+ * @var db $db
+ */
+
+require "settings/init.php";
+?>
 <html lang="da">
 <head>
     <meta charset="utf-8">
