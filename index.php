@@ -110,11 +110,11 @@ include("includes/navbar.php");
             <input type="email" class="form-control py-2 text-white custom-text placeholder-gray rounded-0 bg-white" id="exampleInputEmail1" placeholder="E-MAIL">
         </div>
         <div class="col-12 pb-3 d-md-none">
-            <button type="submit" class="btn btn-primary text-white px-5 custom-text submitBtn">SUBSCRIBE</button>
+            <button type="submit" class="btn btn-primary text-secondary px-5 custom-text submitBtn">SUBSCRIBE</button>
         </div>
 
         <div class="col-md-9 d-none d-md-flex flex-nowrap pb-md-3">
-            <input type="email" class="form-control py-3 text-white custom-text placeholder-gray rounded-0 bg-white" id="exampleInputEmail1" placeholder="E-MAIL">
+            <input type="email" class="form-control py-3 text-secondary custom-text placeholder-gray rounded-0 bg-white" id="exampleInputEmail1" placeholder="E-MAIL">
             <button type="submit" class="btn btn-primary rounded-0 shadow-none text-white custom-text submitBtn">SUBSCRIBE</button>
         </div>
 
