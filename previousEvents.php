@@ -52,7 +52,7 @@ include ("includes/navbar.php");
         </div>
 
         <div class="mb-5">
-            <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</button>
+            <a target="_blank" href="https://www.youtube.com/@mark.o.madsen" class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</a>
         </div>
 
         <div class="col-12 col-md-10 col-lg-6 p-4 pb-5 reveal">
@@ -63,8 +63,8 @@ include ("includes/navbar.php");
             <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/RBqi4cHE-I8?si=TB5FMDcF1K-LeJfe" class="p-lg-3 p-md-1 p-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        </div>
         </div>
-        <div class="mb-5">
-            <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</button>
+        <div class="my-4">
+            <a target="_blank" href="https://www.youtube.com/@mark.o.madsen" class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</a>
         </div>
 
 

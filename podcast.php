@@ -59,8 +59,8 @@ include ("includes/navbar.php");
         </div>
 
 
-        <div class="mb-5 reveal">
-            <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</button>
+        <div class="my-4 reveal">
+            <a target="_blank" href="https://www.youtube.com/@mark.o.madsen" class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">VIEW MORE</a>
         </div>
 
     </div>

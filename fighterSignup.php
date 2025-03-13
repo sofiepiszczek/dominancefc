@@ -125,7 +125,7 @@ include ("includes/navbar.php");
         </div>
 
         <div class="reveal mb-5 mt-5 text-center">
-            <button class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">SUBMIT</button>
+            <a href="#" class="btn btn-primary rounded-2 px-5 py-2 text-white custom-text">SUBMIT</a>
         </div>
     </div>
 
