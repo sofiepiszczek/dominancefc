@@ -27,7 +27,7 @@ require "settings/init.php";
 
 <body>
 <?php
-include ("includes/navbar.php");
+include("includes/navbar.php");
 ?>
 
 
@@ -35,34 +35,41 @@ include ("includes/navbar.php");
     <div class="row justify-content-center text-center">
         <div class="col-md-6">
             <p class="h1 text-primary custom-text py-5">CONTACT</p>
-            <p class="px-4"><strong>For all media and press-related inquiries, please contact our PR team.</strong> <br> We look forward to assisting you with your questions, interview requests, and any other press-related matters.</p>
+            <p class="px-4"><strong>For all media and press-related inquiries, please contact our PR team.</strong> <br>
+                We look forward to assisting you with your questions, interview requests, and any other press-related
+                matters.</p>
         </div>
     </div>
 
     <div class="row justify-content-center">
         <div class="col-md-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">NAME:</label>
-            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT NAME HERE">
+            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3"
+                   placeholder="INSERT NAME HERE">
         </div>
 
         <div class="col-md-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">SURNAME:</label>
-            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT SURNAME HERE">
+            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3"
+                   placeholder="INSERT SURNAME HERE">
         </div>
 
         <div class="col-md-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">COMPANY:</label>
-            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT COMPANY HERE">
+            <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3"
+                   placeholder="INSERT COMPANY HERE">
         </div>
 
         <div class="col-md-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">E-MAIL:</label>
-            <input type="email" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT E-MAIL HERE">
+            <input type="email" class="form-control bg-white custom-text text-secondary placeholder-gray py-3"
+                   placeholder="INSERT E-MAIL HERE">
         </div>
 
         <div class="col-md-10 px-4 mt-5 pb-4">
             <label class="form-label text-white custom-text fs-6 text-start">MESSAGE:</label>
-            <textarea class="form-control bg-white custom-text text-secondary placeholder-gray" rows="5" placeholder="INSERT MESSAGE HERE"></textarea>
+            <textarea class="form-control bg-white custom-text text-secondary placeholder-gray" rows="5"
+                      placeholder="INSERT MESSAGE HERE"></textarea>
         </div>
 
         <div class="reveal mt-5 mb-5 text-center">
@@ -72,9 +79,8 @@ include ("includes/navbar.php");
 </div>
 
 
-
 <?php
-include ("includes/footies.php");
+include("includes/footies.php");
 ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/scripts.js"></script>

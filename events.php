@@ -19,7 +19,7 @@
 
 <body>
 <?php
-include ("includes/navbar.php");
+include("includes/navbar.php");
 ?>
 
 <h1 class="custom-text text-primary text-center py-5 reveal">EVENTS</h1>
@@ -33,13 +33,13 @@ include ("includes/navbar.php");
             </div>
 
             <div class="reveal custom-text col-10 col-md-6 col-lg-5 py-md-3 card shadow-lg rounded-0 bg-secondary my-4 my-lg-5 px-3 ps-lg-4">
-                    <h2 class="pt-3 pt-lg-4 fs-2 text-white">AIRTOX DOMINANCE FC 3.0</h2>
-                    <p class="py-2 pt-lg-3 fs-3 text-primary custom-text">MMA in K.B. Hallen, Copenhagen</p>
+                <h2 class="pt-3 pt-lg-4 fs-2 text-white">AIRTOX DOMINANCE FC 3.0</h2>
+                <p class="py-2 pt-lg-3 fs-3 text-primary custom-text">MMA in K.B. Hallen, Copenhagen</p>
                 <p class="fs-6 text-white text-start custom-text">26/04/2025</p>
                 <div class="reveal d-inline-flex justify-content-center align-items-center">
-                <div class="reveal col-9 col-md-7 text-center pb-3 pt-lg-4">
-                <a href="" class="btn bg-primary text-white fs-6">BUY TICKETS</a>
-                </div>
+                    <div class="reveal col-9 col-md-7 text-center pb-3 pt-lg-4">
+                        <a href="" class="btn bg-primary text-white fs-6">BUY TICKETS</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -104,7 +104,7 @@ include ("includes/navbar.php");
 
 
 <?php
-include ("includes/footies.php");
+include("includes/footies.php");
 ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/scripts.js"></script>

@@ -96,43 +96,44 @@ include("includes/navbar.php");
                     </div>
                 </div>
 
-                    <div class="col-12 text-white text-center pt-5 reveal">
-                        <h2 class="herotext pt-4 pb-2 custom-text">BE FAMILY!</h2>
-                        <p class="pb-2 pb-md-0 m-md-0 familySmallText text-uppercase custom-text text-primary">Stay in the loop
-                            get our newsletter</p>
+                <div class="col-12 text-white text-center pt-5 reveal">
+                    <h2 class="herotext pt-4 pb-2 custom-text">BE FAMILY!</h2>
+                    <p class="pb-2 pb-md-0 m-md-0 familySmallText text-uppercase custom-text text-primary">Stay in the
+                        loop
+                        get our newsletter</p>
 
-                        <form class="d-inline-flex justify-content-center flex-wrap mb-md-2">
-                            <div class="col-12 mb-3  d-flex justify-content-center">
-                                <div class="col-9 d-md-none">
-                                    <input type="email"
-                                           class="form-control py-2 py-md-3 text-white custom-text placeholder-gray rounded-0 bg-white"
-                                           id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
-                                </div>
-                            </div>
-                            <div class="col-12 pb-3 p-md-3 d-md-none">
-                                <button type="submit"
-                                        class="btn btn-primary text-white px-5 px-md-3 px-lg-5 custom-text submitBtn">
-                                    SUBSCRIBE
-                                </button>
-                            </div>
-
-                            <div class="col-md-9 d-md-flex flex-md-nowrap d-none pb-md-3">
+                    <form class="d-inline-flex justify-content-center flex-wrap mb-md-2">
+                        <div class="col-12 mb-3  d-flex justify-content-center">
+                            <div class="col-9 d-md-none">
                                 <input type="email"
                                        class="form-control py-2 py-md-3 text-white custom-text placeholder-gray rounded-0 bg-white"
                                        id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
-                                <button type="submit"
-                                        class="btn btn-primary rounded-0 shadow-none text-white custom-text submitBtn">
-                                    SUBSCRIBE
-                                </button>
                             </div>
+                        </div>
+                        <div class="col-12 pb-3 p-md-3 d-md-none">
+                            <button type="submit"
+                                    class="btn btn-primary text-white px-5 px-md-3 px-lg-5 custom-text submitBtn">
+                                SUBSCRIBE
+                            </button>
+                        </div>
 
-                            <div class="col-12 col-md-7 text-center text-start text-uppercase subscribeText policyText px-2 ps-4">
-                                <p class="px-4">By signing up for our newsletter, you accept our privacy policy and
-                                    consent to receiving marketing and website tracking.
-                                    You can withdraw your consent anytime.</p>
-                            </div>
-                        </form>
-                    </div>
+                        <div class="col-md-9 d-md-flex flex-md-nowrap d-none pb-md-3">
+                            <input type="email"
+                                   class="form-control py-2 py-md-3 text-white custom-text placeholder-gray rounded-0 bg-white"
+                                   id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-MAIL">
+                            <button type="submit"
+                                    class="btn btn-primary rounded-0 shadow-none text-white custom-text submitBtn">
+                                SUBSCRIBE
+                            </button>
+                        </div>
+
+                        <div class="col-12 col-md-7 text-center text-start text-uppercase subscribeText policyText px-2 ps-4">
+                            <p class="px-4">By signing up for our newsletter, you accept our privacy policy and
+                                consent to receiving marketing and website tracking.
+                                You can withdraw your consent anytime.</p>
+                        </div>
+                    </form>
+                </div>
 
             </div>
         </div>

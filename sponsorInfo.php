@@ -27,7 +27,7 @@ require "settings/init.php";
 
 <body>
 <?php
-include ("includes/navbar.php");
+include("includes/navbar.php");
 ?>
 
 
@@ -38,11 +38,14 @@ include ("includes/navbar.php");
             <p class="h1 text-primary py-5 custom-text">SPONSOR <br> INFO</p>
         </div>
 
-    <div class="col-md-6 px-5 pb-5">
-        <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/JoAs6WG4W-I?si=FVweBJdgs8webumR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="col-md-6 px-5 pb-5">
+            <div class="ratio ratio-16x9">
+                <iframe src="https://www.youtube.com/embed/JoAs6WG4W-I?si=FVweBJdgs8webumR" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
         </div>
-    </div>
 
         <div class="col-md-12">
             <p class="h4 text-white pt-4 custom-text px-3">BENEFITS OF BEING AN AIRTOX DOMINANCE FC SPONSOR</p>
@@ -52,28 +55,35 @@ include ("includes/navbar.php");
             <div class="col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons1.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
-                    <p><span class="text-primary h5 custom-text">Gain <br> Visibility</span> <br><br> Your business will be prominently featured at our MMA shows, on our social media platforms, and in our marketing materials.</p>
+                    <p><span class="text-primary h5 custom-text">Gain <br> Visibility</span> <br><br> Your business will
+                        be prominently featured at our MMA shows, on our social media platforms, and in our marketing
+                        materials.</p>
                 </div>
             </div>
 
             <div class="reveal col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons2.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
-                    <p><span class="text-primary h6 custom-text">Network with Leaders</span> <br><br> Access to the “Dominance Fight Club”, where you can network with entrepreneurs, business leaders, and MMA enthusiasts.</p>
+                    <p><span class="text-primary h6 custom-text">Network with Leaders</span> <br><br> Access to the
+                        “Dominance Fight Club”, where you can network with entrepreneurs, business leaders, and MMA
+                        enthusiasts.</p>
                 </div>
             </div>
 
             <div class="reveal col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons3.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
-                    <p><span class="text-primary h5 custom-text">Exclusive Events</span> <br><br> Invitations to exclusive events and opportunities to meet fighters and other key figures in the MMA world.</p>
+                    <p><span class="text-primary h5 custom-text">Exclusive Events</span> <br><br> Invitations to
+                        exclusive events and opportunities to meet fighters and other key figures in the MMA world.</p>
                 </div>
             </div>
 
             <div class="reveal col-md-5 col-lg-3 mt-5">
                 <img src="images/benefitSpons4.jpg" class="w-100 mb-3" alt="billede">
                 <div class="text-start text-white text-uppercase">
-                    <p><span class="text-primary h5 custom-text">Brand Association</span> <br><br> Associate your brand with a dynamic and rapidly growing sport, showcasing your support for the MMA community and professional athletes.</p>
+                    <p><span class="text-primary h5 custom-text">Brand Association</span> <br><br> Associate your brand
+                        with a dynamic and rapidly growing sport, showcasing your support for the MMA community and
+                        professional athletes.</p>
                 </div>
             </div>
         </div>
@@ -91,7 +101,7 @@ include ("includes/navbar.php");
 
 
 <?php
-include ("includes/footies.php");
+include("includes/footies.php");
 ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/scripts.js"></script>
