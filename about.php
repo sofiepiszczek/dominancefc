@@ -70,6 +70,10 @@ include("includes/navbar.php");
     </div>
 </div>
 
+<div class="reveal mt-4 pb-4 text-center">
+    <a href="#" class="btn btn-primary rounded-2 px-4 py-2 text-white custom-text">TO THE TOP</a>
+</div>
+
 
 <?php
 include("includes/footies.php");

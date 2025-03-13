@@ -37,7 +37,7 @@ include("includes/navbar.php");
         </div>
     </div>
 </div>
-<div class="container pb-5">
+<div class="container pb-3">
     <div class="row">
         <div class="reveal col-12 d-inline-flex justify-content-center">
             <div class="col-7 col-md-3 py-5 my-3 text-center">
@@ -47,8 +47,8 @@ include("includes/navbar.php");
         <div class="reveal col-12 text-center text-white custom-text mb-4">
             <h2 class="fs-1">DISCOVER<br><span class="fs-5">MORE FROM</span><br> DOMINANCE</h2>
         </div>
-        <div class="reveal col-12 text-center mt-3">
-            <a href="" class="btn bg-primary rounded-2 text-white custom-text py-2">CLICK HERE</a>
+        <div class="reveal col-12 text-center my-4">
+            <a href="behindTheScenes.php" class="btn bg-primary rounded-2 text-white custom-text py-2">CLICK HERE</a>
         </div>
     </div>
 </div>
