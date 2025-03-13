@@ -41,22 +41,15 @@ include("includes/navbar.php");
         </div>
 
         <div class="col-md-5 pb-5 reveal">
-            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <img src="images/ilovemarkTee.jpg" class="w-75" alt="Billede af trøje">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK I <3 MARK T-SHIRT</p>
+            <p class="h6 text-white custom-text my-3">€30</p>
+            <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
+        </div>
+
+        <div class="col-md-5 pb-5 reveal">
+            <img src="images/dominanceCageTee.jpg" class="w-75" alt="Billede af trøje">
             <p class="h6 text-white custom-text mt-4">UNISEX BLACK DFC CAGE T-SHIRT</p>
-            <p class="h6 text-white custom-text my-3">€30</p>
-            <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
-        </div>
-
-        <div class="col-md-5 pb-5 reveal">
-            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
-            <p class="h6 text-white custom-text mt-4">UNISEX BLACK CAGED DOMINANCE T-SHIRT</p>
-            <p class="h6 text-white custom-text my-3">€30</p>
-            <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
-        </div>
-
-        <div class="col-md-5 pb-5 reveal">
-            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
-            <p class="h6 text-white custom-text mt-4">UNISEX BLACK AD BATTLE T-SHIRT</p>
             <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
@@ -69,16 +62,23 @@ include("includes/navbar.php");
         </div>
 
         <div class="col-md-5 pb-5 reveal">
-            <img src="images/about1.jpg" class="w-75" alt="Billede af cap">
-            <p class="h6 text-white custom-text mt-4">UNISEX BLACK DFC BODY CAP</p>
-            <p class="h6 text-white custom-text my-3">€25</p>
+            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK AD OUTLINE T-SHIRT</p>
+            <p class="h6 text-white custom-text my-3">€30</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
         <div class="col-md-5 pb-5 reveal">
-            <img src="images/about1.jpg" class="w-75" alt="Billede af trøje">
+            <img src="images/bodyTee.jpg" class="w-75" alt="Billede af trøje">
             <p class="h6 text-white custom-text mt-4">UNISEX BLACK DFC BODY T-SHIRT</p>
             <p class="h6 text-white custom-text my-3">€30</p>
+            <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
+        </div>
+
+        <div class="col-md-5 pb-5 reveal">
+            <img src="images/bodyCap.jpg" class="w-75" alt="Billede af cap">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK DFC BODY CAP</p>
+            <p class="h6 text-white custom-text my-3">€25</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 

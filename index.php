@@ -47,7 +47,7 @@ include("includes/navbar.php");
             <h2 class="pt-3 pt-md-4 fs-1">NEXT EVENT</h2>
             <p class="fs-4 text-primary custom-text">26/04/2025</p>
             <div class="px-3 pb-3 px-md-5">
-                <a href="events.php"><img src="images/nextevent2.png" class="img-fluid" alt="event billede"></a>
+                <a href="events.php"><img src="images/seeMore1.jpg" class="img-fluid" alt="event billede"></a>
             </div>
             <p id="nextEventCountdown" class="fs-4 text-white custom-text"></p>
         </div>
@@ -55,7 +55,7 @@ include("includes/navbar.php");
             <h2 class="pt-3 pt-md-4 fs-1">ACADEMY</h2>
             <p class="fs-4 text-primary custom-text">09/08/2025</p>
             <div class="px-3 pb-3 px-md-5">
-                <a href="events.php"><img src="images/nextacademy2.png" class="img-fluid" alt="academy billede"></a>
+                <a href="events.php"><img src="images/seeMore2.jpg" class="img-fluid" alt="academy billede"></a>
             </div>
             <p id="nextAcademyCountdown" class="fs-4 text-white custom-text"></p>
         </div>
