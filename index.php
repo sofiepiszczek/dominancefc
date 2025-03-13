@@ -64,7 +64,7 @@ include("includes/navbar.php");
 
 <!-- Watch Live Section -->
 <a href="ppv.php" class="d-block text-decoration-none">
-    <div class="reveal container-fluid banner position-relative gx-0 mb-5">
+    <div class="container-fluid banner position-relative gx-0 mb-5">
         <!-- Background Image -->
         <img src="images/banner-pluto.png" class="img-fluid position-absolute object-fit-cover h-100 w-100" alt="MMA fighter">
 
@@ -72,7 +72,7 @@ include("includes/navbar.php");
         <div class="row position-relative justify-content-center align-items-center">
             <!-- WATCH LIVE Text -->
             <div class="col-12 text-center">
-                <h2 class="custom-text text-white py-5 herotext">WATCH LIVE</h2>
+                <h2 class="reveal custom-text text-white py-5 herotext">WATCH LIVE</h2>
             </div>
         </div>
     </div>
