@@ -46,7 +46,7 @@ include("includes/navbar.php");
                 <div class="reveal d-inline-flex justify-content-center align-items-center">
                     <div class="reveal col-9 col-md-7 text-center pb-3 pt-lg-4">
                         <a target="_blank" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G"
-                           class="btn bg-primary text-white fs-6">BUY TICKETS</a>
+                           class="btn btn-primary text-white fs-6">BUY TICKETS</a>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@ include("includes/navbar.php");
                 <div class="reveal d-inline-flex justify-content-center align-items-center">
                     <div class="reveal col-9 col-md-7 text-center pb-3 pt-lg-4">
                         <a target="_blank" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G"
-                           class="btn bg-primary text-white">BUY TICKETS</a>
+                           class="btn btn-primary text-white">BUY TICKETS</a>
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@ include("includes/navbar.php");
                 <div class="reveal d-inline-flex justify-content-center align-items-center">
                     <div class="reveal col-9 col-md-7 text-center pb-3 pt-lg-4">
                         <a target="_blank" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G"
-                           class="btn bg-primary text-white">BUY TICKETS</a>
+                           class="btn btn-primary text-white">BUY TICKETS</a>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@ include("includes/navbar.php");
                 <div class="reveal d-inline-flex justify-content-center align-items-center">
                     <div class="reveal col-9 col-md-7 text-center pb-3 pt-lg-4">
                         <a target="_blank" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G"
-                           class="btn bg-primary text-white">BUY TICKETS</a>
+                           class="btn btn-primary text-white">BUY TICKETS</a>
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@ include("includes/navbar.php");
                 <div class="reveal d-inline-flex justify-content-center align-items-center">
                     <div class="reveal col-9 col-md-7 text-center pb-3 pt-lg-4">
                         <a target="_blank" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G"
-                           class="btn bg-primary text-white">BUY TICKETS</a>
+                           class="btn btn-primary text-white">BUY TICKETS</a>
                     </div>
                 </div>
             </div>
