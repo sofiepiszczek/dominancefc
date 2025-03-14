@@ -42,10 +42,16 @@
                         <a target="_blank" href="https://www.instagram.com/airtoxdominancefc/" class="h6 mb-0 custom-text">INSTAGRAM</a>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
+
+    <div class="row justify-content-center mb-5">
+        <div class="col-6 col-md-3 col-lg-2 text-center">
+            <img src="images/europæiskeUnionLogo.png" class="img-fluid pe-lg-5" alt="EU logo">
+        </div>
+    </div>
+
 </div>
 
 
