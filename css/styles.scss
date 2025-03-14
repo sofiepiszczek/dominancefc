@@ -140,14 +140,12 @@ p{
 	height: 500px;
 }
 
-.eventbaggrund{
-	background-image: url('../images/eventBG.png'); /* Sti til dit billede */
-	background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
-	background-position: center; /* Centrerer billedet */
-	height: 2500px; /* Justér efter behov */
+.eventbaggrund {
+	background-image: url('../images/eventBG.png');
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh;
 }
-
-
 
 /* Placeholder-farve og skriftstørrelse til formular - contact & fighter signup */
 
@@ -294,3 +292,5 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
         font-size: 40px;
     }
 }
+
+

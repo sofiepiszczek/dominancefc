@@ -37,12 +37,12 @@ include("includes/navbar.php");
     </video>
     <div class="tekst1 d-flex justify-content-center align-items-center flex-wrap flex-column h-100">
         <div><h1 class="custom-text bannertext text-center">FEAR <br> NOTHING</h1></div>
-        <div><i class="fa-solid fa-chevron-down fa-beat-fade fa-2xl text-center text-primary fs-1 p-3"></i></div>
+        <div><a class="fa-solid fa-chevron-down fa-beat-fade fa-2xl text-center text-primary fs-1 p-3" href="#scrollspyNext"></a></div>
     </div>
 </div>
 
 <!-- Event Cards -->
-<div class="container-fluid text-center custom-text bg-primary bg-opacity-75 py-5">
+<div class="container-fluid text-center custom-text bg-primary bg-opacity-75 py-5" id="scrollspyNext">
     <div class="row justify-content-center align-items-center d-flex flex-wrap">
         <div class="nextEvent col-11 col-md-8 col-lg-5 card shadow-lg rounded-0 bg-secondary my-4 me-lg-4 reveal">
             <h2 class="pt-3 pt-md-4 fs-1">NEXT EVENT</h2>
