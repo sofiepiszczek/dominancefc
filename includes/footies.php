@@ -47,8 +47,8 @@
     </div>
 
     <div class="row justify-content-center mb-5">
-        <div class="col-8 col-md-4 col-lg-3 text-center">
-            <img src="images/europæiskeUnionLogo.png" class="img-fluid px-4" alt="EU logo">
+        <div class="col-6 col-md-3 col-lg-2 text-center">
+            <img src="images/europæiskeUnionLogo.png" class="img-fluid pe-lg-5" alt="EU logo">
         </div>
     </div>
 
