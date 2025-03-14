@@ -1,5 +1,5 @@
 <script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
-<nav class="navbar navbar-expand-sm z-3 bg-secondary pt-4 d-sm-none">
+<nav class="navbar navbar-expand-md z-3 bg-secondary pt-4 d-md-none">
     <div class="container-fluid">
         <a href="index.php"><img src="images/DominanceLogoNAV.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -70,14 +70,14 @@
 </nav>
 
 <!-- Top black bar with logo -->
-<nav class="navbar bg-secondary py-3 d-none d-sm-block z-3">
+<nav class="navbar bg-secondary py-3 d-none d-md-block z-3">
     <div class="container d-flex justify-content-center">
         <a href="index.php"><img src="images/DominanceLogoNAV.png" alt="Logo" style="height: 50px;"></a>
     </div>
 </nav>
 
 <!-- Orange navigation bar -->
-<nav class="navbar bg-primary d-none d-sm-block w-75 mx-auto z-3 p-0">
+<nav class="navbar bg-primary d-none d-md-block w-75 mx-auto z-3 p-0">
     <div class="container d-flex justify-content-center bg-primary">
         <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
             <li class="nav-item custom-text"><a class="nav-link me-4" href="index.php">Home</a></li>
@@ -115,7 +115,7 @@
 
             <!-- Be Family Dropdown -->
             <li class="nav-item dropdown custom-text">
-                <a class="nav-link dropdown-toggle ms-4" href="#" id="beFamilyDropdown" role="button"
+                <a class="nav-link dropdown-toggle ms-4 me-4" href="#" id="beFamilyDropdown" role="button"
                    data-bs-toggle="dropdown" aria-expanded="false">
                     Be Family
                 </a>
@@ -126,6 +126,8 @@
                     <li><a class="dropdown-item" href="sponsorInfo.php">Sponsor Info</a></li>
                 </ul>
             </li>
+            <li class="nav-item nav-divider mt-2">｜</li>
+            <li class="nav-item custom-text ms-4"><a class="nav-link text-black" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">BUY TICKETS</a></li>
         </ul>
     </div>
 </nav>
