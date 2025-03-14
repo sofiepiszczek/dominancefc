@@ -41,7 +41,7 @@ include("includes/navbar.php");
 </div>
 
 <!-- Event Cards -->
-<div class="container-fluid text-center custom-text bg-primary bg-opacity-25 py-5">
+<div class="container-fluid text-center custom-text bg-primary bg-opacity-75 py-5">
     <div class="row justify-content-center align-items-center d-flex flex-wrap">
         <div class="nextEvent col-11 col-md-8 col-lg-5 card shadow-lg rounded-0 bg-secondary my-4 me-lg-4 reveal">
             <h2 class="pt-3 pt-md-4 fs-1">NEXT EVENT</h2>
