@@ -38,7 +38,7 @@ include("includes/navbar.php");
             </div>
 
             <div class="reveal col-md-6 text-center">
-                <a class="btn bg-primary rounded-2 text-white w-75 py-2 py-md-3 fs-5 px-4" href="">WATCH ADFC 3.0
+                <a class="btn btn-primary rounded-2 text-white w-75 py-2 py-md-3 fs-5 px-4" href="">WATCH ADFC 3.0
                     HERE</a>
             </div>
         </div>
@@ -55,7 +55,7 @@ include("includes/navbar.php");
             <h2 class="fs-1">DISCOVER<br><span class="fs-5">MORE FROM</span><br> DOMINANCE</h2>
         </div>
         <div class="reveal col-12 text-center my-4">
-            <a href="behindTheScenes.php" class="btn bg-primary rounded-2 text-white custom-text py-2">CLICK HERE</a>
+            <a href="behindTheScenes.php" class="btn btn-primary rounded-2 text-white custom-text py-2">CLICK HERE</a>
         </div>
     </div>
 </div>
