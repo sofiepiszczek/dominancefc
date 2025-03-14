@@ -35,8 +35,9 @@ include("includes/navbar.php");
     <video autoplay muted loop class="videobg">
         <source src="video/forsidevideo.mp4" type="video/mp4">
     </video>
-    <div class="tekst1 d-flex justify-content-center align-items-center h-100">
-        <h1 class="custom-text bannertext text-center">FEAR <br> NOTHING</h1>
+    <div class="tekst1 d-flex justify-content-center align-items-center flex-wrap flex-column h-100">
+        <div><h1 class="custom-text bannertext text-center">FEAR <br> NOTHING</h1></div>
+        <div><i class="fa-solid fa-chevron-down fa-beat-fade fa-2xl text-center text-primary fs-1 p-3"></i></div>
     </div>
 </div>
 

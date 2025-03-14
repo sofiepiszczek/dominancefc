@@ -56,7 +56,6 @@ p{
 
 .bannertext{
 	font-size: 3rem;
-	padding-bottom: 380px;
 }
 
 .subscribeText{
@@ -222,6 +221,12 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	}
 	.bannertext{
 		font-size: 6.7rem;
+	}
+	.tekst1{
+		position: relative;
+		height: 100%;
+		z-index: 2;
+		padding: 20px;
 		padding-bottom: 60px;
 	}
 	.policyText{
