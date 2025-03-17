@@ -80,7 +80,7 @@ include("includes/navbar.php");
 </a>
 
 <!-- Discover More Section -->
-<div class="container-fluid text-center">
+<div class="reveal container-fluid text-center">
     <div class="row justify-content-center reveal">
         <div class="col-10 col-md-7 col-lg-9 py-4 mb-4">
             <a href="behindTheScenes.php">
@@ -88,7 +88,7 @@ include("includes/navbar.php");
             </a>
         </div>
         <div class="col-12 col-md-6">
-            <div class="reveal ratio ratio-16x9">
+            <div class="ratio ratio-16x9">
                 <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw"
                         title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
