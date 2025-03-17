@@ -121,6 +121,9 @@ p{
 	filter: invert(34%) sepia(97%) saturate(1810%) hue-rotate(349deg) brightness(99%) contrast(102%);
 }
 
+.NB2{
+	width: 80%;
+}
 .dropdown-item{
 	color: white;
 }
@@ -132,6 +135,7 @@ p{
 .nav-divider {
 	font-size: 1vw; /* Ensure the divider also scales */
 }
+
 
 .hero-section {
 	background-image: url('../images/ppv.jpg');
@@ -231,10 +235,10 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 		font-size: 0.6rem;
 	}
 	.eventbaggrund{
-		background-image: url('../images/eventBG.png'); /* Sti til dit billede */
-		background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
-		background-position: center; /* Centrerer billedet */
-		height: 1800px; /* Justér efter behov */
+		background-image: url('../images/eventBG.png');
+		background-size: cover;
+		background-position: center;
+		height: 1800px;
 	}
 
 	.hero-section {
@@ -268,10 +272,10 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 		height: 700px;
 	}
 	.eventbaggrund{
-		background-image: url('../images/eventBG.png'); /* Sti til dit billede */
-		background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
-		background-position: center; /* Centrerer billedet */
-		height: 2000px; /* Justér efter behov */
+		background-image: url('../images/eventBG.png');
+		background-size: cover;
+		background-position: center;
+		height: 2000px;
 	}
 }
 
