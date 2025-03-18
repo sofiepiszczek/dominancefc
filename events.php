@@ -31,7 +31,7 @@ include("includes/navbar.php");
 
 <h1 class="custom-text text-primary text-center py-5 reveal">EVENTS</h1>
 
-<div class="container-fluid eventbaggrund w-100 pb-lg-4 reveal">
+<div class="container-fluid eventbaggrund w-100 pb-lg-4">
     <div class="row">
 
         <div class="reveal col-12 d-inline-flex flex-wrap justify-content-center align-items-center bg-primary bg-opacity-25 text-start custom-text py-5">
@@ -43,8 +43,8 @@ include("includes/navbar.php");
                 <h2 class="pt-3 pt-lg-4 fs-2 text-white">AIRTOX DOMINANCE FC 3.0</h2>
                 <p class="py-2 pt-lg-3 fs-3 text-primary custom-text">MMA in K.B. Hallen, Copenhagen</p>
                 <p class="fs-6 text-white text-start custom-text">26/04/2025</p>
-                <div class="reveal d-inline-flex justify-content-center align-items-center">
-                    <div class="reveal col-9 col-md-7 text-center pb-3 pt-lg-4">
+                <div class="d-inline-flex justify-content-center align-items-center">
+                    <div class="col-9 col-md-7 text-center pb-3 pt-lg-4">
                         <a target="_blank" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G"
                            class="btn btn-primary text-white fs-6">BUY TICKETS</a>
                     </div>

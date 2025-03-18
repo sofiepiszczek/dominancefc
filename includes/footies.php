@@ -36,7 +36,7 @@
                     </div>
 
                     <div class="d-flex align-items-center gap-3 mt-4">
-                        <div class="instagramBG d-flex align-items-center justify-content-center">
+                        <div class="instagramBG d-flex align-items-center justify-content-center bg-primary">
                             <i class="fa-brands fa-instagram text-white display-3"></i>
                         </div>
                         <a target="_blank" href="https://www.instagram.com/airtoxdominancefc/" class="h6 mb-0 custom-text">INSTAGRAM</a>
