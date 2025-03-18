@@ -127,7 +127,7 @@
                 </ul>
             </li>
             <li class="nav-item nav-divider mt-2">｜</li>
-            <li class="custom-text nav-item"><a class="text-secondary nav-link ms-4" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G">BUY TICKETS</a></li>
+            <li class="custom-text nav-item"><a class="text-secondary nav-link ms-4" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">BUY TICKETS</a></li>
         </ul>
     </div>
 </nav>
