@@ -31,36 +31,41 @@ include("includes/navbar.php");
 ?>
 
 
-<h1 class="custom-text text-primary text-center py-5">MERCH</h1>
+<h1 class="custom-text text-primary text-center py-5 m-0">MERCH</h1>
 
 <div class="container-fluid">
     <div class="row d-inline-flex justify-content-center align-items-center">
-        <div class="col-2">
-        <button class="carousel-control-prev text-primary" type="button" data-bs-target="#carouselExampleInterval"
+        <div class="col-12">
+            <div class="text-center custom-text text-white pb-5">
+                <h5>POPULAR STYLES</h5>
+            </div>
+        </div>
+        <div class="col-1 col-md-2 px-md-3 p-0 text-end">
+        <button class="p-0 btn text-primary" type="button" data-bs-target="#carouselExampleInterval"
                 data-bs-slide="prev">
             <span> <i class="fa-solid fa-forward-step fa-flip-horizontal text-primary fa-2xl"></i></span>
             <span class="visually-hidden">Previous</span>
         </button>
         </div>
-        <div class="col-6">
+        <div class="col-8 col-md-4 pb-4 mt-0 mb-4">
 
             <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
+                <div class="carousel-inner rounded-2 shadow-lg">
                     <div class="carousel-item active" data-bs-interval="10000">
                         <img src="/images/dOutlineTee.png" class=" d-block w-100" alt="Cage T-shirt">
                     </div>
                     <div class="carousel-item" data-bs-interval="10000">
-                        <img src="/images/dOutlineTee.png" class=" d-block w-100" alt="Outline T-shirt">
+                        <img src="/images/logoOutlineTee.png" class="d-block w-100" alt="Outline T-shirt">
                     </div>
                     <div class="carousel-item" data-bs-interval="10000">
-                        <img src="/images/dOutlineTee.png" class=" d-block w-100" alt="Body T-shirt">
+                        <img src="/images/dOutlineTee.png" class="d-block w-100" alt="Body T-shirt">
                     </div>
                 </div>
             </div>
 
         </div>
-        <div class="col-2">
-        <button class="carousel-control-next text-primary" type="button" data-bs-target="#carouselExampleInterval"
+        <div class="col-1 col-md-2 p-0 px-md-3">
+        <button class="p-0 btn text-primary" type="button" data-bs-target="#carouselExampleInterval"
                       data-bs-slide="next">
             <span><i class="fa-solid fa-forward-step text-primary fa-2xl"></i></span>
             <span class="visually-hidden">Next</span>
