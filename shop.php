@@ -82,6 +82,20 @@ include("includes/navbar.php");
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
+        <div class="col-12 col-md-5 pb-5 reveal">
+            <img src="images/bodyCap.jpg" class="w-75" alt="Billede af cap">
+            <p class="h6 text-white custom-text mt-4">UNISEX BLACK AD OUTLINE CAP</p>
+            <p class="h6 text-white custom-text my-3">€25</p>
+            <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
+        </div>
+
+        <div class="col-12 col-md-5 pb-5 reveal">
+            <img src="images/bodyCap.jpg" class="w-75" alt="Billede af plakat">
+            <p class="h6 text-white custom-text mt-4">ADFC EVENT POSTER</p>
+            <p class="h6 text-white custom-text my-3">€15</p>
+            <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
+        </div>
+
     </div>
 </div>
 
