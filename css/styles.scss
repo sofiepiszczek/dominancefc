@@ -27,8 +27,12 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 // 5. Du kan lave styling her...
 
-p,h1,h2{
-	color: #ffffff;
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Anton&family=Anton+SC&family=Barlow:ital,wght@0,700;0,800;0,900;1,700;1,800&family=Homemade+Apple&family=Merriweather&display=swap');
+
+p{
+	font-family: "Barlow", sans-serif;
+	font-weight: 700;
+	font-style: normal;
 }
 
 @font-face {
@@ -42,12 +46,8 @@ p,h1,h2{
 	font-family: 'DFCfont', sans-serif;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Anton&family=Anton+SC&family=Barlow:ital,wght@0,700;0,800;0,900;1,700;1,800&family=Homemade+Apple&family=Merriweather&display=swap');
-
-p{
-	font-family: "Barlow", sans-serif;
-	font-weight: 700;
-	font-style: normal;
+p,h1,h2{
+	color: #ffffff;
 }
 
 .familySmallText{
@@ -63,31 +63,17 @@ p{
 }
 
 .videobg{
-	width: 100%;
 	height: 1000px;
-	object-fit: cover;
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	z-index: 0;
 }
 
 .tekst1{
-	position: relative;
-	height: 100%;
-	z-index: 2;
 	padding: 20px;
 }
 .banner{
 	height: 900px;
-	overflow: hidden;
 }
 
-
 /* NAV */
-
 .orange-line {
 	height: 2px;
 }
@@ -121,17 +107,22 @@ p{
 	filter: invert(34%) sepia(97%) saturate(1810%) hue-rotate(349deg) brightness(99%) contrast(102%);
 }
 
+.NB2{
+	width: 80%;
+}
+
 .dropdown-item{
 	color: white;
 }
 
-.custom-text .nav-link {
+.nav-link {
 	font-size: 1vw; /* Font size scales with viewport width */
 }
 
 .nav-divider {
 	font-size: 1vw; /* Ensure the divider also scales */
 }
+
 
 .hero-section {
 	background-image: url('../images/ppv.jpg');
@@ -201,15 +192,7 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 
 @media (min-width: 768px){
 	.videobg{
-		width: 100%;
 		height: 1440px;
-		object-fit: cover;
-		position: absolute;
-		top: 0;
-		left: 0;
-		right: 0;
-		bottom: 0;
-		z-index: 0;
 	}
 	.banner{
 		height: 1300px;
@@ -221,9 +204,6 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 		font-size: 6.7rem;
 	}
 	.tekst1{
-		position: relative;
-		height: 100%;
-		z-index: 2;
 		padding: 20px;
 		padding-bottom: 60px;
 	}
@@ -231,16 +211,10 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 		font-size: 0.6rem;
 	}
 	.eventbaggrund{
-		background-image: url('../images/eventBG.png'); /* Sti til dit billede */
-		background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
-		background-position: center; /* Centrerer billedet */
-		height: 1800px; /* Justér efter behov */
+		height: 1800px;
 	}
 
 	.hero-section {
-		background-image: url('../images/ppv.jpg');
-		background-size: cover;
-		background-position: center;
 		height: 800px;
 	}
 	.submitBtn{
@@ -250,28 +224,20 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	.familySmallText{
 		font-size: 1.3rem;
 	}
+	.instagramBG i {
+		font-size: 40px;
+	}
 }
 
 @media (min-width: 992px){
 	.videobg{
-		width: 100%;
 		height: 850px;
-		object-fit: cover;
-		position: absolute;
-		top: 0;
-		left: 0;
-		right: 0;
-		bottom: 0;
-		z-index: 0;
 	}
 	.banner{
 		height: 700px;
 	}
 	.eventbaggrund{
-		background-image: url('../images/eventBG.png'); /* Sti til dit billede */
-		background-size: cover; /* Sikrer, at billedet dækker hele sektionen */
-		background-position: center; /* Centrerer billedet */
-		height: 2000px; /* Justér efter behov */
+		height: 2000px;
 	}
 }
 
@@ -279,18 +245,8 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 .instagramBG {
     width: 50px;
     height: 50px;
-    background-color: #fa4516;
     border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
-/* Mindre Instagram ikon på desktop */
-@media (min-width: 768px) {
-    .instagramBG i {
-        font-size: 40px;
-    }
-}
 
 

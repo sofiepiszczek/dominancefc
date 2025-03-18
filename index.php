@@ -31,11 +31,11 @@ include("includes/navbar.php");
 ?>
 
 <!-- Hero Video -->
-<div class="container-fluid banner m-0 p-0 d-flex justify-content-center align-items-center">
-    <video autoplay muted loop class="videobg">
+<div class="container-fluid banner m-0 p-0 d-flex justify-content-center align-items-center overflow-hidden">
+    <video autoplay muted loop class="videobg w-100 object-fit-cover position-absolute top-0 bottom-0 z-0">
         <source src="video/forsidevideo.mp4" type="video/mp4">
     </video>
-    <div class="tekst1 d-flex justify-content-center align-items-center flex-wrap flex-column h-100">
+    <div class="tekst1 d-flex justify-content-center align-items-center flex-wrap flex-column h-100 z-2 position-relative">
         <div><h1 class="custom-text bannertext text-center">FEAR <br> NOTHING</h1></div>
         <div><a class="fa-solid fa-chevron-down fa-beat-fade fa-2xl text-center text-primary fs-1 p-3" href="#scrollspyNext"></a></div>
     </div>
@@ -65,7 +65,7 @@ include("includes/navbar.php");
 
 <!-- Watch Live Section -->
 <a href="ppv.php" class="d-block text-decoration-none">
-    <div class="container-fluid banner position-relative gx-0 mb-5">
+    <div class="container-fluid banner position-relative gx-0 mb-5 overflow-hidden">
         <!-- Background Image -->
         <img src="images/banner-pluto.png" class="img-fluid position-absolute object-fit-cover h-100 w-100" alt="MMA fighter">
 
@@ -80,7 +80,7 @@ include("includes/navbar.php");
 </a>
 
 <!-- Discover More Section -->
-<div class="container-fluid text-center">
+<div class="reveal container-fluid text-center">
     <div class="row justify-content-center reveal">
         <div class="col-10 col-md-7 col-lg-9 py-4 mb-4">
             <a href="behindTheScenes.php">
@@ -88,7 +88,7 @@ include("includes/navbar.php");
             </a>
         </div>
         <div class="col-12 col-md-6">
-            <div class="reveal ratio ratio-16x9">
+            <div class="ratio ratio-16x9">
                 <iframe src="https://www.youtube.com/embed/05Hn8hPdTV8?si=USDIU4UFjy8bQ6pw"
                         title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

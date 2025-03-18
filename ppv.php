@@ -34,11 +34,11 @@ include("includes/navbar.php");
     <div class="row">
         <div class="hero-section d-flex flex-column align-items-center justify-content-center text-white custom-text">
             <div class="col-md-7 text-center">
-                <h2 class="reveal py-5 mt-3 fs-1 text-white">WATCH ADFC <br> ONLINE AT PLUTO TV</h2>
+                <h2 class="reveal py-5 mt-3 fs-1 text-white">WATCH ADFC <br> ONLINE WITH PLUTO TV</h2>
             </div>
 
-            <div class="reveal col-md-6 text-center">
-                <a class="btn btn-primary rounded-2 text-white w-75 py-2 py-md-3 fs-5 px-4" href="">WATCH ADFC 3.0
+            <div class="col-md-6 text-center">
+                <a class="btn btn-primary rounded-2 text-white w-75 py-2 py-md-3 fs-5 px-4" href="https://pluto.tv/dk/on-demand" target="_blank">WATCH ADFC
                     HERE</a>
             </div>
         </div>
@@ -54,7 +54,7 @@ include("includes/navbar.php");
         <div class="reveal col-12 text-center text-white custom-text mb-4">
             <h2 class="fs-1">DISCOVER<br><span class="fs-5">MORE FROM</span><br> DOMINANCE</h2>
         </div>
-        <div class="reveal col-12 text-center my-4">
+        <div class="col-12 text-center my-4">
             <a href="behindTheScenes.php" class="btn btn-primary rounded-2 text-white custom-text py-2">CLICK HERE</a>
         </div>
     </div>

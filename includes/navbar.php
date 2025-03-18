@@ -1,5 +1,5 @@
 <script src="https://kit.fontawesome.com/629904b720.js" crossorigin="anonymous"></script>
-<nav class="navbar navbar-expand-md z-3 bg-secondary pt-4 d-md-none">
+<nav class="navbar navbar-expand-lg z-3 bg-secondary pt-4 d-lg-none">
     <div class="container-fluid">
         <a href="index.php"><img src="images/DominanceLogoNAV.png" alt="Logo" style="height: 30px;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -70,14 +70,14 @@
 </nav>
 
 <!-- Top black bar with logo -->
-<nav class="navbar bg-secondary py-3 d-none d-md-block z-3">
+<div class="navbar bg-secondary py-3 d-none d-lg-block z-3">
     <div class="container d-flex justify-content-center">
         <a href="index.php"><img src="images/DominanceLogoNAV.png" alt="Logo" style="height: 50px;"></a>
     </div>
-</nav>
+</div>
 
 <!-- Orange navigation bar -->
-<nav class="navbar bg-primary d-none d-md-block w-75 mx-auto z-3 p-0">
+<nav class="navbar NB2 bg-primary d-none d-lg-block mx-auto z-3 p-0">
     <div class="container d-flex justify-content-center bg-primary">
         <ul class="nav text-uppercase fw-bold text-white flex-nowrap">
             <li class="nav-item custom-text"><a class="nav-link me-4" href="index.php">Home</a></li>
@@ -127,7 +127,7 @@
                 </ul>
             </li>
             <li class="nav-item nav-divider mt-2">｜</li>
-            <li class="nav-item custom-text ms-4"><a class="nav-link text-black" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">BUY TICKETS</a></li>
+            <li class="custom-text nav-item"><a class="text-secondary nav-link ms-4" href="https://www.billetlugen.dk/artist/dominance-fc-3-0/?affiliate=P0G" target="_blank">BUY TICKETS</a></li>
         </ul>
     </div>
 </nav>
