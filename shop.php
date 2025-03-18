@@ -73,6 +73,7 @@ include("includes/navbar.php");
         </div>
     </div>
 </div>
+
 <div class="container-fluid eventbaggrund w-100 pb-lg-4">
     <div class="row text-center justify-content-center">
 
@@ -123,14 +124,14 @@ include("includes/navbar.php");
         </div>
 
         <div class="col-12 col-md-5 pb-5 reveal">
-            <img src="images/bodyCap.jpg" class="w-75" alt="Billede af cap">
+            <img src="images/LOGOcap.png" class="w-75" alt="Billede af cap">
             <p class="h6 text-white custom-text mt-4">UNISEX BLACK AD OUTLINE CAP</p>
             <p class="h6 text-white custom-text my-3">€25</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
         </div>
 
         <div class="col-12 col-md-5 pb-5 reveal">
-            <img src="images/bodyCap.jpg" class="w-75" alt="Billede af plakat">
+            <img src="images/eventPoster.jpg" class="w-75" alt="Billede af plakat">
             <p class="h6 text-white custom-text mt-4">ADFC EVENT POSTER</p>
             <p class="h6 text-white custom-text my-3">€15</p>
             <a href="#" class="btn btn-primary text-white py-1 px-3 custom-text">BUY</a>
