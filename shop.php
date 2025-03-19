@@ -52,13 +52,13 @@ include("includes/navbar.php");
             <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner rounded-2 shadow-lg">
                     <div class="carousel-item active" data-bs-interval="10000">
-                        <img src="/images/dOutlineTee.png" class=" d-block w-100" alt="Cage T-shirt">
+                        <img src="images/dOutlineTee.png" class=" d-block w-100" alt="Cage T-shirt">
                     </div>
                     <div class="carousel-item" data-bs-interval="10000">
-                        <img src="/images/logoOutlineTee.png" class="d-block w-100" alt="Outline T-shirt">
+                        <img src="images/logoOutlineTee.png" class="d-block w-100" alt="Outline T-shirt">
                     </div>
                     <div class="carousel-item" data-bs-interval="10000">
-                        <img src="/images/dOutlineTee.png" class="d-block w-100" alt="Body T-shirt">
+                        <img src="images/dOutlineTee.png" class="d-block w-100" alt="Body T-shirt">
                     </div>
                 </div>
             </div>
