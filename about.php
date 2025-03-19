@@ -39,7 +39,7 @@ include("includes/navbar.php");
 
         <div class="col-md-5 col-lg-5 px-4 reveal">
             <img src="images/about1.jpg" class="w-75 img-fluid mb-4" alt="Portræt af Mark O. Madsen">
-            <h6 class="text-white custom-text lh-lg">Mark O. Madsen <br> <span class="text-primary">CEO, Airtox Dominance FC</span></h6>
+            <h6 class="text-white custom-text lh-lg">Mark O. Madsen <br> <span class="text-primary">President, Airtox Dominance FC</span></h6>
             <img src="images/markSigningWhite.png" class="w-50 img-fluid" alt="Marks underskrift">
         </div>
         <div class="col-md-7 col-lg-5 text-start p-5 reveal">
