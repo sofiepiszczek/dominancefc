@@ -74,7 +74,7 @@ include("includes/navbar.php");
     </div>
 </div>
 
-<div class="container-fluid eventbaggrund w-100 pb-lg-4">
+<div class="container-fluid shopbaggrund w-100 pb-lg-4">
     <div class="row text-center justify-content-center">
 
         <div class="py-5 reveal">
