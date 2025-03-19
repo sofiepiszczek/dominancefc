@@ -108,7 +108,7 @@ include("includes/navbar.php");
 
     <div class="reveal row justify-content-center">
         <div class="col-md-7 col-lg-4 px-4 mt-5">
-            <p class="px-4 fw-bold text-start">Do you allow us saving your info and agree to our policies? You can withdraw anytime.</p>
+            <p class="px-4 fw-bold text-start">Do you allow us saving your info and agree to our policies? You can withdraw anytime.<span class="text-primary">*</span></p>
         </div>
     </div>
 
