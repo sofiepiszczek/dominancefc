@@ -37,12 +37,12 @@ include("includes/navbar.php");
             <p class="h1 text-primary py-5 custom-text">ABOUT</p>
         </div>
 
-        <div class="col-md-5 px-4 reveal">
+        <div class="col-md-5 col-lg-5 px-4 reveal">
             <img src="images/about1.jpg" class="w-75 img-fluid mb-4" alt="Portræt af Mark O. Madsen">
         </div>
-        <div class="col-md-5 text-start p-5 reveal">
+        <div class="col-md-7 col-lg-5 text-start p-5 reveal">
             <p class="h5 text-primary custom-text mb-3">WHAT IS AIRTOX DOMINANCE FC?</p>
-            <p class="h6 text-uppercase lh-lg">Airtox Dominance FC, short for <span class="text-primary">Airtox Dominance Fighting Championship</span>,
+            <p class="h6 lh-lg">Airtox Dominance FC, short for <span class="text-primary">Airtox Dominance Fighting Championship</span>,
                 was established by three-time Olympian and UFC veteran <span class="text-primary">Mark O. Madsen</span>.
                 Airtox Dominance FC’s vision is to establish Europe’s <span
                         class="text-primary">premier fight promotion</span>, hosting multiple ADFC events annually.
@@ -50,21 +50,21 @@ include("includes/navbar.php");
                 for fighters and fans alike.</p>
         </div>
 
-        <div class="col-md-5 text-start p-5 order-2 order-md-1 reveal">
+        <div class="col-md-6 col-lg-5 text-start p-5 order-2 order-md-1 reveal">
             <p class="h5 text-primary custom-text mb-3">WHY AIRTOX DOMINANCE FC?</p>
-            <p class="h6 text-uppercase lh-lg">MMA, or Mixed Martial Arts, is the <span class="text-primary">world’s fastest-growing sport</span>,
+            <p class="h6 lh-lg">MMA, or Mixed Martial Arts, is the <span class="text-primary">world’s fastest-growing sport</span>,
                 and we see <span class="text-primary">enormous potential</span> in the European MMA scene. Airtox
                 Dominance FC aims to create a platform that matches this growth, promotes the sport in Europe, and
                 provides <span class="text-primary">European talents</span> with an international stage to develop their
                 potential and build their brand.</p>
         </div>
-        <div class="col-md-5 px-4 order-1 order-md-2 reveal">
+        <div class="col-md-6 col-lg-5 px-4 order-1 order-md-2 reveal">
             <img src="images/about2.jpg" class="img-fluid mb-4" alt="Billede af ringen">
         </div>
     </div>
 
     <div class="row justify-content-center reveal">
-        <div class="col-md-5 text-center my-5">
+        <div class="col-md-7 col-lg-5 text-center my-5">
             <img src="images/about3.jpg" class="img-fluid" alt="Billede af Mark O. Madsen">
         </div>
     </div>
