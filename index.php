@@ -72,8 +72,8 @@ include("includes/navbar.php");
         <!-- Content Wrapper -->
         <div class="row position-relative justify-content-center align-items-center">
             <!-- WATCH LIVE Text -->
-            <div class="col-12 text-center">
-                <h2 class="reveal custom-text text-white py-5 herotext">WATCH LIVE</h2>
+            <div class="col-12 mt-md-0 mt-5 text-center">
+                <h2 class="reveal custom-text text-white mt-md-0 mt-5 py-5 herotext">WATCH LIVE</h2>
             </div>
         </div>
     </div>

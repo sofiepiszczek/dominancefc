@@ -33,10 +33,10 @@ include("includes/navbar.php");
 
 <h1 class="custom-text text-primary text-center py-5 m-0">MERCH</h1>
 
-<div class="container-fluid">
+<div class="container-fluid mb-3">
     <div class="row d-inline-flex justify-content-center align-items-center">
         <div class="col-12">
-            <div class="text-center custom-text text-white pb-5">
+            <div class="text-center custom-text text-white pb-5 pb-md-1">
                 <h5>POPULAR STYLES</h5>
             </div>
         </div>
@@ -47,7 +47,7 @@ include("includes/navbar.php");
             <span class="visually-hidden">Previous</span>
         </button>
         </div>
-        <div class="col-8 col-md-4 pb-4 mt-0 mb-4">
+        <div class="col-8 col-md-4 p-4">
 
             <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner rounded-2 shadow-lg">
