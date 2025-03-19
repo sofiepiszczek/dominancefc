@@ -39,6 +39,7 @@ include("includes/navbar.php");
         </div>
 
     <div class="col-md-6 px-5 pb-5">
+        <p class="h6 text-white text-start custom-text">A WORD FROM THE PRESIDENT</p>
         <div class="ratio ratio-16x9">
             <iframe src="https://www.youtube.com/embed/JoAs6WG4W-I?si=FVweBJdgs8webumR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>

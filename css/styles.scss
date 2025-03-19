@@ -116,11 +116,11 @@ p,h1,h2{
 }
 
 .nav-link {
-	font-size: 1vw; /* Font size scales with viewport width */
+	font-size: 1vw;
 }
 
 .nav-divider {
-	font-size: 1vw; /* Ensure the divider also scales */
+	font-size: 1vw;
 }
 
 
@@ -131,12 +131,21 @@ p,h1,h2{
 	height: 500px;
 }
 
+.shopbaggrund {
+	background-image: url('../images/eventBG.png');
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh;
+}
+
 .eventbaggrund {
 	background-image: url('../images/eventBG.png');
 	background-size: cover;
 	background-position: center;
 	min-height: 100vh;
 }
+
+
 
 /* Placeholder-farve og skriftstørrelse til formular - contact & fighter signup */
 
@@ -173,8 +182,6 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	border-color: #fa4516;
 	box-shadow: none;
 }
-
-/* Ingen box-shadow til SoMe links i "Fighter Signup */
 
 .underline{
 	outline: none;
@@ -214,6 +221,10 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 		height: 2300px;
 	}
 
+	.shopbaggrund{
+		height: 2000px;
+	}
+
 	.hero-section {
 		height: 800px;
 	}
@@ -229,15 +240,21 @@ input[type="date"].custom-placeholder::-webkit-datetime-edit {
 	}
 }
 
-@media (min-width: 992px){
-	.videobg{
+@media (min-width: 992px) {
+	.videobg {
 		height: 850px;
 	}
-	.banner{
+
+	.banner {
 		height: 700px;
 	}
-	.eventbaggrund{
+
+	.eventbaggrund {
 		height: 2700px;
+	}
+
+	.shopbaggrund {
+		height: 2600px;
 	}
 }
 
