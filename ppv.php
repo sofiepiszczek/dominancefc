@@ -47,8 +47,8 @@ include("includes/navbar.php");
 <div class="container pb-3">
     <div class="row">
         <div class="reveal col-12 d-inline-flex justify-content-center">
-            <div class="col-7 col-md-3 py-5 my-3 text-center">
-                <img src="images/Plutopng.png" class="img-fluid" alt="Pluto Logo">
+            <div class="col-9 col-md-6 col-lg-3 py-5 my-3 text-center ps-5">
+                <a target="_blank" href="https://pluto.tv/dk/on-demand"><img src="images/Plutopng.png" class="img-fluid" alt="Pluto Logo"></a>
             </div>
         </div>
         <div class="reveal col-12 text-center text-white custom-text mb-4">

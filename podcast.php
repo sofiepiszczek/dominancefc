@@ -52,7 +52,7 @@ include("includes/navbar.php");
             </div>
         </div>
 
-        <div class="col-12 col-md-6 p-4 pb-5 reveal">
+        <div class="col-12 col-md-6 px-4 pb-5 reveal">
             <p class="h6 text-white text-start ps-4 custom-text">DFC PODCAST EP. 1</p>
             <div class="ratio ratio-16x9">
                 <iframe src="https://www.youtube.com/embed/wBDbDAHl9io?si=Qom3FApCE5YfRFOr" class="p-lg-3 p-md-2 p-1"

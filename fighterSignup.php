@@ -32,7 +32,7 @@ include("includes/navbar.php");
 
 <div class="container">
     <div class="row justify-content-center text-center">
-        <div class="col-md-6">
+        <div class="col-md-9 col-lg-6">
             <p class="h1 text-primary custom-text py-5">FIGHTER <br> SIGNUP</p>
             <p class="px-4 custom-text"><strong>Apply for our fighter roster!</strong></p>
             <p class="px-4">Do you have what it takes to perform at the top level, and compete with some of the best and most prominent fighters in the world?</p>
@@ -40,12 +40,12 @@ include("includes/navbar.php");
 
 
     <div class="row justify-content-center text-start">
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-6 col-lg-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">FULL NAME:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT FULL NAME HERE">
         </div>
 
-            <div class="col-md-5 px-4 mt-5">
+            <div class="col-md-6 col-lg-5 px-4 mt-5">
                 <label class="form-label text-white custom-text fs-6 text-start">EXPERIENCE:</label>
                 <select class="form-select bg-white custom-text text-secondary placeholder-gray py-3 custom-placeholder"
                         aria-label="Select your experience">
@@ -55,37 +55,37 @@ include("includes/navbar.php");
                 </select>
             </div>
 
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-6 col-lg-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">DATE OF BIRTH:</label>
             <input type="date" class="form-control bg-white custom-text text-secondary placeholder-gray py-3 custom-placeholder" placeholder="INSERT DATE OF BIRTH HERE">
         </div>
 
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-6 col-lg-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">E-MAIL:</label>
             <input type="email" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT E-MAIL HERE">
         </div>
 
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-6 col-lg-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">PHONE NUMBER:</label>
             <input type="number" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT NUMBER HERE">
         </div>
 
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-6 col-lg-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">NATIONALITY:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT NATIONALITY HERE">
         </div>
 
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-6 col-lg-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">WEIGHT CLASS:</label>
             <input type="number" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT WEIGHT CLASS HERE">
         </div>
 
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-6 col-lg-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">FIGHT RECORD:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT FIGHT RECORD HERE">
         </div>
 
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-6 col-lg-5 px-4 mt-5">
             <label class="form-label text-white custom-text fs-6 text-start">AFFILIATED GYM AND COACH:</label>
             <input type="text" class="form-control bg-white custom-text text-secondary placeholder-gray py-3" placeholder="INSERT HERE">
         </div>
@@ -93,7 +93,7 @@ include("includes/navbar.php");
 
 
     <div class="row justify-content-center">
-        <div class="col-md-5 px-4 mt-5">
+        <div class="col-md-8 col-lg-5 px-4 mt-5">
             <input type="text" class="form-control custom-text border-0 border-bottom bg-transparent text-white placeholder-gray text-center my-5 underline" style="box-shadow: none" placeholder="FACEBOOK LINK">
 
             <input type="text" class="form-control custom-text border-0 border-bottom bg-transparent text-white placeholder-gray text-center my-5 underline" style="box-shadow: none" placeholder="INSTAGRAM LINK">
@@ -107,8 +107,8 @@ include("includes/navbar.php");
     </div>
 
     <div class="reveal row justify-content-center">
-        <div class="col-md-4 px-4 mt-5">
-            <p class="px-4 fw-bold text-start">Do you allow us to save your info for future events and agree to our privacy policy, marketing, and tracking? You can withdraw consent anytime.</p>
+        <div class="col-md-7 col-lg-4 px-4 mt-5">
+            <p class="px-4 fw-bold text-start">Do you allow us saving your info and agree to our policies? You can withdraw anytime.<span class="text-primary">*</span></p>
         </div>
     </div>
 
